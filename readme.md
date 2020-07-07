@@ -6,4 +6,4 @@ Sort them by alphabet
 
 Remove dummy, trigger
 
-create Score names
+Create Score names
