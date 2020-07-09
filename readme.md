@@ -14,4 +14,4 @@ Remove dummy, trigger
 
 Create Score Name and Name of Scoreboard
 
-Copy final result from Add Scoreboards and Remove Scoreboards
+Get Final Command from Add Scoreboards and Remove Scoreboards
