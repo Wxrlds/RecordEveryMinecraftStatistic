@@ -1,6 +1,12 @@
 A Minecraft Datapck dedicated towards adding every single Minecraft Statistic as a Scoreboard
 
-Quick Setup Guide:
+Quick installation Guide:
+
+If you want to add it to a newly generated world, on the world generaton screen you have the possibility to include a datapack by default.
+
+If you want to add it to an existing world, you open its world folder, enter the datapacks folder and move the zip file in that folder. You might have to run ``/reload`` for it to work
+
+Quick Scoreboard creation Guide:
 
 Get names of every score with this: https://github.com/AllTheMods/Server-Scripts (seems like only linux can tab autocomplete for anything > 1.12.2)
 
