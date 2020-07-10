@@ -13,7 +13,7 @@ Get names of every score with this: https://github.com/AllTheMods/Server-Scripts
 With Notepad++:
 Remove spaces and replace them with "\n"
 
-With Command Creation.odt:
+With Command Creation.ods:
 Sort them by alphabet
 
 Remove dummy, trigger
