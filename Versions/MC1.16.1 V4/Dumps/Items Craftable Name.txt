@@ -1,0 +1,849 @@
+Acacia Boat
+Acacia Button
+Acacia Door
+Acacia Fence
+Acacia Fence Gate
+Acacia Planks
+Acacia Pressure Plate
+Acacia Sign
+Acacia Slab
+Acacia Stairs
+Acacia Trapdoor
+Acacia Wood
+Activator Rail
+Andesite
+Andesite Slab
+Andesite Slab
+Andesite Stairs
+Andesite Stairs
+Andesite Wall
+Andesite Wall
+Anvil
+Armor Stand
+Arrow
+Baked Potato
+Baked Potato
+Baked Potato
+Barrel
+Beacon
+Beehive
+Beetroot Soup
+Birch Boat
+Birch Button
+Birch Door
+Birch Fence
+Birch Fence Gate
+Birch Planks
+Birch Pressure Plate
+Birch Sign
+Birch Slab
+Birch Stairs
+Birch Trapdoor
+Birch Wood
+Black Banner
+Black Bed
+Black Bed
+Black Carpet
+Black Carpet
+Black Concrete Powder
+Black Dye
+Black Dye
+Black Glazed Terracotta
+Black Stained Glass
+Black Stained Glass Pane
+Black Stained Glass Pane
+Black Terracotta
+Black Wool
+Blackstone Slab
+Blackstone Slab
+Blackstone Stairs
+Blackstone Stairs
+Blackstone Wall
+Blackstone Wall
+Blast Furnace
+Blaze Powder
+Blue Banner
+Blue Bed
+Blue Bed
+Blue Carpet
+Blue Carpet
+Blue Concrete Powder
+Blue Dye
+Blue Dye
+Blue Glazed Terracotta
+Blue Ice
+Blue Stained Glass
+Blue Stained Glass Pane
+Blue Stained Glass Pane
+Blue Terracotta
+Blue Wool
+Bone Block
+Bone Meal
+Bone Meal
+Book
+Bookshelf
+Bow
+Bowl
+Bread
+Brewing Stand
+Brick
+Brick Slab
+Brick Slab
+Brick Stairs
+Brick Stairs
+Brick Wall
+Brick Wall
+Bricks
+Brown Banner
+Brown Bed
+Brown Bed
+Brown Carpet
+Brown Carpet
+Brown Concrete Powder
+Brown Dye
+Brown Glazed Terracotta
+Brown Stained Glass
+Brown Stained Glass Pane
+Brown Stained Glass Pane
+Brown Terracotta
+Brown Wool
+Bucket
+Cake
+Campfire
+Carrot on a Stick
+Cartography Table
+Cauldron
+Chain
+Charcoal
+Chest
+Minecart with Chest
+Chiseled Nether Bricks
+Chiseled Nether Bricks
+Chiseled Polished Blackstone
+Chiseled Polished Blackstone
+Chiseled Polished Blackstone
+Chiseled Quartz Block
+Chiseled Quartz Block
+Chiseled Red Sandstone
+Chiseled Red Sandstone
+Chiseled Sandstone
+Chiseled Sandstone
+Chiseled Stone Bricks
+Chiseled Stone Bricks
+Chiseled Stone Bricks
+Clay
+Clock
+Coal
+Coal
+Coal
+Block of Coal
+Coarse Dirt
+Cobblestone Slab
+Cobblestone Slab
+Cobblestone Stairs
+Cobblestone Stairs
+Cobblestone Wall
+Cobblestone Wall
+Redstone Comparator
+Compass
+Composter
+Conduit
+Steak
+Steak
+Steak
+Cooked Chicken
+Cooked Chicken
+Cooked Chicken
+Cooked Cod
+Cooked Cod
+Cooked Cod
+Cooked Mutton
+Cooked Mutton
+Cooked Mutton
+Cooked Porkchop
+Cooked Porkchop
+Cooked Porkchop
+Cooked Rabbit
+Cooked Rabbit
+Cooked Rabbit
+Cooked Salmon
+Cooked Salmon
+Cooked Salmon
+Cookie
+Cracked Nether Bricks
+Cracked Polished Blackstone Bricks
+Cracked Stone Bricks
+Crafting Table
+Banner Pattern
+Crimson Button
+Crimson Door
+Crimson Fence
+Crimson Fence Gate
+Crimson Hyphae
+Crimson Planks
+Crimson Pressure Plate
+Crimson Sign
+Crimson Slab
+Crimson Stairs
+Crimson Trapdoor
+Crossbow
+Cut Red Sandstone
+Cut Red Sandstone
+Cut Red Sandstone Slab
+Cut Red Sandstone Slab
+Cut Red Sandstone Slab
+Cut Sandstone
+Cut Sandstone
+Cut Sandstone Slab
+Cut Sandstone Slab
+Cut Sandstone Slab
+Cyan Banner
+Cyan Bed
+Cyan Bed
+Cyan Carpet
+Cyan Carpet
+Cyan Concrete Powder
+Cyan Dye
+Cyan Glazed Terracotta
+Cyan Stained Glass
+Cyan Stained Glass Pane
+Cyan Stained Glass Pane
+Cyan Terracotta
+Cyan Wool
+Dark Oak Boat
+Dark Oak Button
+Dark Oak Door
+Dark Oak Fence
+Dark Oak Fence Gate
+Dark Oak Planks
+Dark Oak Pressure Plate
+Dark Oak Sign
+Dark Oak Slab
+Dark Oak Stairs
+Dark Oak Trapdoor
+Dark Oak Wood
+Dark Prismarine
+Dark Prismarine Slab
+Dark Prismarine Slab
+Dark Prismarine Stairs
+Dark Prismarine Stairs
+Daylight Detector
+Detector Rail
+Diamond
+Diamond
+Diamond
+Diamond Axe
+Block of Diamond
+Diamond Boots
+Diamond Chestplate
+Diamond Helmet
+Diamond Hoe
+Diamond Leggings
+Diamond Pickaxe
+Diamond Shovel
+Diamond Sword
+Diorite
+Diorite Slab
+Diorite Slab
+Diorite Stairs
+Diorite Stairs
+Diorite Wall
+Diorite Wall
+Dispenser
+Dried Kelp
+Dried Kelp
+Dried Kelp
+Dried Kelp
+Dried Kelp Block
+Dropper
+Emerald
+Emerald
+Emerald
+Block of Emerald
+Enchanting Table
+End Crystal
+End Rod
+End Stone Brick Slab
+End Stone Brick Slab
+End Stone Brick Slab
+End Stone Brick Stairs
+End Stone Brick Stairs
+End Stone Brick Stairs
+End Stone Brick Wall
+End Stone Brick Wall
+End Stone Brick Wall
+End Stone Bricks
+End Stone Bricks
+Ender Chest
+Eye of Ender
+Fermented Spider Eye
+Fire Charge
+Firework Rocket
+Firework Star
+Fishing Rod
+Fletching Table
+Flint and Steel
+Banner Pattern
+Flower Pot
+Furnace
+Minecart with Furnace
+Glass
+Glass Bottle
+Glass Pane
+Glistering Melon Slice
+Glowstone
+Block of Gold
+Gold Ingot
+Gold Ingot
+Gold Ingot
+Gold Ingot
+Gold Nugget
+Gold Nugget
+Gold Nugget
+Golden Apple
+Golden Axe
+Golden Boots
+Golden Carrot
+Golden Chestplate
+Golden Helmet
+Golden Hoe
+Golden Leggings
+Golden Pickaxe
+Golden Shovel
+Golden Sword
+Granite
+Granite Slab
+Granite Slab
+Granite Stairs
+Granite Stairs
+Granite Wall
+Granite Wall
+Gray Banner
+Gray Bed
+Gray Bed
+Gray Carpet
+Gray Carpet
+Gray Concrete Powder
+Gray Dye
+Gray Glazed Terracotta
+Gray Stained Glass
+Gray Stained Glass Pane
+Gray Stained Glass Pane
+Gray Terracotta
+Gray Wool
+Green Banner
+Green Bed
+Green Bed
+Green Carpet
+Green Carpet
+Green Concrete Powder
+Green Dye
+Green Glazed Terracotta
+Green Stained Glass
+Green Stained Glass Pane
+Green Stained Glass Pane
+Green Terracotta
+Green Wool
+Grindstone
+Hay Bale
+Heavy Weighted Pressure Plate
+Honey Block
+Honey Bottle
+Honeycomb Block
+Hopper
+Minecart with Hopper
+Iron Axe
+Iron Bars
+Block of Iron
+Iron Boots
+Iron Chestplate
+Iron Door
+Iron Helmet
+Iron Hoe
+Iron Ingot
+Iron Ingot
+Iron Ingot
+Iron Ingot
+Iron Leggings
+Iron Nugget
+Iron Nugget
+Iron Nugget
+Iron Pickaxe
+Iron Shovel
+Iron Sword
+Iron Trapdoor
+Item Frame
+Jack o'Lantern
+Jukebox
+Jungle Boat
+Jungle Button
+Jungle Door
+Jungle Fence
+Jungle Fence Gate
+Jungle Planks
+Jungle Pressure Plate
+Jungle Sign
+Jungle Slab
+Jungle Stairs
+Jungle Trapdoor
+Jungle Wood
+Ladder
+Lantern
+Lapis Lazuli Block
+Lapis Lazuli
+Lapis Lazuli
+Lapis Lazuli
+Lead
+Leather
+Leather Boots
+Leather Tunic
+Leather Cap
+Leather Horse Armor
+Leather Pants
+Lectern
+Lever
+Light Blue Banner
+Light Blue Bed
+Light Blue Bed
+Light Blue Carpet
+Light Blue Carpet
+Light Blue Concrete Powder
+Light Blue Dye
+Light Blue Dye
+Light Blue Glazed Terracotta
+Light Blue Stained Glass
+Light Blue Stained Glass Pane
+Light Blue Stained Glass Pane
+Light Blue Terracotta
+Light Blue Wool
+Light Gray Banner
+Light Gray Bed
+Light Gray Bed
+Light Gray Carpet
+Light Gray Carpet
+Light Gray Concrete Powder
+Light Gray Dye
+Light Gray Dye
+Light Gray Dye
+Light Gray Dye
+Light Gray Dye
+Light Gray Glazed Terracotta
+Light Gray Stained Glass
+Light Gray Stained Glass Pane
+Light Gray Stained Glass Pane
+Light Gray Terracotta
+Light Gray Wool
+Light Weighted Pressure Plate
+Lime Banner
+Lime Bed
+Lime Bed
+Lime Carpet
+Lime Carpet
+Lime Concrete Powder
+Lime Dye
+Lime Dye
+Lime Glazed Terracotta
+Lime Stained Glass
+Lime Stained Glass Pane
+Lime Stained Glass Pane
+Lime Terracotta
+Lime Wool
+Lodestone
+Loom
+Magenta Banner
+Magenta Bed
+Magenta Bed
+Magenta Carpet
+Magenta Carpet
+Magenta Concrete Powder
+Magenta Dye
+Magenta Dye
+Magenta Dye
+Magenta Dye
+Magenta Dye
+Magenta Glazed Terracotta
+Magenta Stained Glass
+Magenta Stained Glass Pane
+Magenta Stained Glass Pane
+Magenta Terracotta
+Magenta Wool
+Magma Block
+Magma Cream
+Empty Map
+Empty Map
+Melon
+Melon Seeds
+Minecart
+Banner Pattern
+Mossy Cobblestone
+Mossy Cobblestone Slab
+Mossy Cobblestone Slab
+Mossy Cobblestone Stairs
+Mossy Cobblestone Stairs
+Mossy Cobblestone Wall
+Mossy Cobblestone Wall
+Mossy Stone Brick Slab
+Mossy Stone Brick Slab
+Mossy Stone Brick Stairs
+Mossy Stone Brick Stairs
+Mossy Stone Brick Wall
+Mossy Stone Brick Wall
+Mossy Stone Bricks
+Mushroom Stew
+Nether Brick
+Nether Brick Fence
+Nether Brick Slab
+Nether Brick Slab
+Nether Brick Stairs
+Nether Brick Stairs
+Nether Brick Wall
+Nether Brick Wall
+Nether Bricks
+Nether Wart Block
+Netherite Axe
+Block of Netherite
+Netherite Boots
+Netherite Chestplate
+Netherite Helmet
+Netherite Hoe
+Netherite Ingot
+Netherite Ingot
+Netherite Leggings
+Netherite Pickaxe
+Netherite Scrap
+Netherite Scrap
+Netherite Shovel
+Netherite Sword
+Note Block
+Oak Boat
+Oak Button
+Oak Door
+Oak Fence
+Oak Fence Gate
+Oak Planks
+Oak Pressure Plate
+Oak Sign
+Oak Slab
+Oak Stairs
+Oak Trapdoor
+Oak Wood
+Observer
+Orange Banner
+Orange Bed
+Orange Bed
+Orange Carpet
+Orange Carpet
+Orange Concrete Powder
+Orange Dye
+Orange Dye
+Orange Glazed Terracotta
+Orange Stained Glass
+Orange Stained Glass Pane
+Orange Stained Glass Pane
+Orange Terracotta
+Orange Wool
+Packed Ice
+Painting
+Paper
+Pink Banner
+Pink Bed
+Pink Bed
+Pink Carpet
+Pink Carpet
+Pink Concrete Powder
+Pink Dye
+Pink Dye
+Pink Dye
+Pink Glazed Terracotta
+Pink Stained Glass
+Pink Stained Glass Pane
+Pink Stained Glass Pane
+Pink Terracotta
+Pink Wool
+Piston
+Polished Andesite
+Polished Andesite
+Polished Andesite Slab
+Polished Andesite Slab
+Polished Andesite Slab
+Polished Andesite Stairs
+Polished Andesite Stairs
+Polished Andesite Stairs
+Polished Basalt
+Polished Basalt
+Polished Blackstone
+Polished Blackstone
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Stairs
+Polished Blackstone Brick Wall
+Polished Blackstone Brick Wall
+Polished Blackstone Brick Wall
+Polished Blackstone Brick Wall
+Polished Blackstone Bricks
+Polished Blackstone Bricks
+Polished Blackstone Bricks
+Polished Blackstone Button
+Polished Blackstone Pressure Plate
+Polished Blackstone Slab
+Polished Blackstone Slab
+Polished Blackstone Slab
+Polished Blackstone Stairs
+Polished Blackstone Stairs
+Polished Blackstone Stairs
+Polished Blackstone Wall
+Polished Blackstone Wall
+Polished Blackstone Wall
+Polished Diorite
+Polished Diorite
+Polished Diorite Slab
+Polished Diorite Slab
+Polished Diorite Slab
+Polished Diorite Stairs
+Polished Diorite Stairs
+Polished Diorite Stairs
+Polished Granite
+Polished Granite
+Polished Granite Slab
+Polished Granite Slab
+Polished Granite Slab
+Polished Granite Stairs
+Polished Granite Stairs
+Polished Granite Stairs
+Popped Chorus Fruit
+Powered Rail
+Prismarine
+Prismarine Brick Slab
+Prismarine Brick Slab
+Prismarine Brick Stairs
+Prismarine Brick Stairs
+Prismarine Bricks
+Prismarine Slab
+Prismarine Slab
+Prismarine Stairs
+Prismarine Stairs
+Prismarine Wall
+Prismarine Wall
+Pumpkin Pie
+Pumpkin Seeds
+Purple Banner
+Purple Bed
+Purple Bed
+Purple Carpet
+Purple Carpet
+Purple Concrete Powder
+Purple Dye
+Purple Glazed Terracotta
+Purple Stained Glass
+Purple Stained Glass Pane
+Purple Stained Glass Pane
+Purple Terracotta
+Purple Wool
+Purpur Block
+Purpur Pillar
+Purpur Pillar
+Purpur Slab
+Purpur Slab
+Purpur Stairs
+Purpur Stairs
+Nether Quartz
+Nether Quartz
+Block of Quartz
+Quartz Bricks
+Quartz Bricks
+Quartz Pillar
+Quartz Pillar
+Quartz Slab
+Quartz Slab
+Quartz Stairs
+Quartz Stairs
+Rabbit Stew
+Rabbit Stew
+Rail
+Red Banner
+Red Bed
+Red Bed
+Red Carpet
+Red Carpet
+Red Concrete Powder
+Red Dye
+Red Dye
+Red Dye
+Red Dye
+Red Glazed Terracotta
+Red Nether Brick Slab
+Red Nether Brick Slab
+Red Nether Brick Stairs
+Red Nether Brick Stairs
+Red Nether Brick Wall
+Red Nether Brick Wall
+Red Nether Bricks
+Red Sandstone
+Red Sandstone Slab
+Red Sandstone Slab
+Red Sandstone Stairs
+Red Sandstone Stairs
+Red Sandstone Wall
+Red Sandstone Wall
+Red Stained Glass
+Red Stained Glass Pane
+Red Stained Glass Pane
+Red Terracotta
+Red Wool
+Redstone Dust
+Redstone Dust
+Redstone Dust
+Block of Redstone
+Redstone Lamp
+Redstone Torch
+Redstone Repeater
+Respawn Anchor
+Sandstone
+Sandstone Slab
+Sandstone Slab
+Sandstone Stairs
+Sandstone Stairs
+Sandstone Wall
+Sandstone Wall
+Scaffolding
+Sea Lantern
+Shears
+Shield
+Shulker Box
+Banner Pattern
+Slimeball
+Slime Block
+Smithing Table
+Smoker
+Smooth Quartz Block
+Smooth Quartz Slab
+Smooth Quartz Slab
+Smooth Quartz Stairs
+Smooth Quartz Stairs
+Smooth Red Sandstone
+Smooth Red Sandstone Slab
+Smooth Red Sandstone Slab
+Smooth Red Sandstone Stairs
+Smooth Red Sandstone Stairs
+Smooth Sandstone
+Smooth Sandstone Slab
+Smooth Sandstone Slab
+Smooth Sandstone Stairs
+Smooth Sandstone Stairs
+Smooth Stone
+Smooth Stone Slab
+Smooth Stone Slab
+Snow
+Snow Block
+Soul Campfire
+Soul Lantern
+Soul Torch
+Spectral Arrow
+Sponge
+Spruce Boat
+Spruce Button
+Spruce Door
+Spruce Fence
+Spruce Fence Gate
+Spruce Planks
+Spruce Pressure Plate
+Spruce Sign
+Spruce Slab
+Spruce Stairs
+Spruce Trapdoor
+Spruce Wood
+Stick
+Stick
+Sticky Piston
+Stone
+Stone Axe
+Stone Brick Slab
+Stone Brick Slab
+Stone Brick Slab
+Stone Brick Stairs
+Stone Brick Stairs
+Stone Brick Stairs
+Stone Brick Wall
+Stone Brick Wall
+Stone Brick Wall
+Stone Bricks
+Stone Bricks
+Stone Button
+Stone Hoe
+Stone Pickaxe
+Stone Pressure Plate
+Stone Shovel
+Stone Slab
+Stone Slab
+Stone Stairs
+Stone Stairs
+Stone Sword
+Stonecutter
+Stripped Acacia Wood
+Stripped Birch Wood
+Stripped Crimson Hyphae
+Stripped Dark Oak Wood
+Stripped Jungle Wood
+Stripped Oak Wood
+Stripped Spruce Wood
+Stripped Warped Hyphae
+Sugar
+Sugar
+Target
+Terracotta
+TNT
+Minecart with TNT
+Torch
+Trapped Chest
+Tripwire Hook
+Turtle Shell
+Warped Button
+Warped Door
+Warped Fence
+Warped Fence Gate
+Warped Fungus on a Stick
+Warped Hyphae
+Warped Planks
+Warped Pressure Plate
+Warped Sign
+Warped Slab
+Warped Stairs
+Warped Trapdoor
+Wheat
+White Banner
+White Bed
+White Carpet
+White Concrete Powder
+White Dye
+White Dye
+White Glazed Terracotta
+White Stained Glass
+White Stained Glass Pane
+White Stained Glass Pane
+White Terracotta
+White Wool
+Wooden Axe
+Wooden Hoe
+Wooden Pickaxe
+Wooden Shovel
+Wooden Sword
+Book and Quill
+Yellow Banner
+Yellow Bed
+Yellow Bed
+Yellow Carpet
+Yellow Carpet
+Yellow Concrete Powder
+Yellow Dye
+Yellow Dye
+Yellow Glazed Terracotta
+Yellow Stained Glass
+Yellow Stained Glass Pane
+Yellow Stained Glass Pane
+Yellow Terracotta
+Yellow Wool
