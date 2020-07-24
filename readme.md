@@ -22,8 +22,6 @@ With Command Creation.ods:
 
 - Paste IDs into "Scores" and Names into "Name of Scoreboard"
 
-- Sort by alphabet
-
 - Create "Score Name" and "Name of Scoreboard"
 
 - Get Final Command from Add Scoreboards and Remove Scoreboards
