@@ -8,22 +8,22 @@ If you want to add it to an existing world, you open its world folder, enter the
 
 ## Scoreboard creation guide:
 
--Install [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme)
+- Install [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme)
 
--Use it to dump all blocks, custom stats, entities, items, items-craftable
+- Use it to dump all blocks, custom stats, entities, items, items-craftable
 
 
 With any text editor:
 
--Remove all the not needed information so it is ready to be pasted into the Command Creation.ods
+- Remove all the not needed information so it is ready to be pasted into the Command Creation.ods
 
 
 With Command Creation.ods:
 
--Paste IDs into "Scores" and Names into "Name of Scoreboard"
+- Paste IDs into "Scores" and Names into "Name of Scoreboard"
 
--Sort by alphabet
+- Sort by alphabet
 
--Create "Score Name" and "Name of Scoreboard"
+- Create "Score Name" and "Name of Scoreboard"
 
--Get Final Command from Add Scoreboards and Remove Scoreboards
+- Get Final Command from Add Scoreboards and Remove Scoreboards
