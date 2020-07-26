@@ -1,4 +1,3 @@
-#General
 scoreboard objectives add g_air air "Air"
 scoreboard objectives add g_armor armor "Armor"
 scoreboard objectives add g_food food "Food"
@@ -6,8 +5,6 @@ scoreboard objectives add g_health health "Health"
 scoreboard objectives add g_level level "Level"
 scoreboard objectives add g_totalKills totalKillCount "Total Kills"
 scoreboard objectives add g_xp xp "XP"
-
-#Killed By
 scoreboard objectives add d_effectCloud minecraft.killed_by:minecraft.area_effect_cloud "Killed By Area Effect Cloud"
 scoreboard objectives add d_armorStand minecraft.killed_by:minecraft.armor_stand "Killed By Armor Stand"
 scoreboard objectives add d_arrow minecraft.killed_by:minecraft.arrow "Killed By Arrow"
@@ -131,8 +128,6 @@ scoreboard objectives add d_teamLPurple minecraft.killed_by:killedByTeam.light_p
 scoreboard objectives add d_teamRed minecraft.killed_by:killedByTeam.red "Killed By Team Red"
 scoreboard objectives add d_teamWhite minecraft.killed_by:killedByTeam.white "Killed By Team White"
 scoreboard objectives add d_teamYellow minecraft.killed_by:killedByTeam.yellow "Killed By Team Yellow"
-
-#Killed
 scoreboard objectives add k_effectCloud minecraft.killed:minecraft.area_effect_cloud "Killed Area Effect Cloud"
 scoreboard objectives add k_armorStand minecraft.killed:minecraft.armor_stand "Killed Armor Stand"
 scoreboard objectives add k_arrow minecraft.killed:minecraft.arrow "Killed Arrow"
@@ -256,8 +251,6 @@ scoreboard objectives add k_teamLPurple minecraft.killed:teamkill.light_purple "
 scoreboard objectives add k_teamRed minecraft.killed:teamkill.red "Killed Team Red"
 scoreboard objectives add k_teamWhite minecraft.killed:teamkill.white "Killed Team White"
 scoreboard objectives add k_teamYellow minecraft.killed:teamkill.yellow "Killed Team Yellow"
-
-#Custom
 scoreboard objectives add cu_animalBred minecraft.custom:minecraft.animals_bred "Animals Bred"
 scoreboard objectives add cu_distAviate minecraft.custom:minecraft.aviate_one_cm "Distance By Elytra in cm"
 scoreboard objectives add cu_ringBell minecraft.custom:minecraft.bell_ring "Bells Rung"
@@ -332,8 +325,6 @@ scoreboard objectives add cu_useCauldron minecraft.custom:minecraft.use_cauldron
 scoreboard objectives add cu_distOnWater minecraft.custom:minecraft.walk_on_water_one_cm "Distance Walked On Water in cm"
 scoreboard objectives add cu_distWalk minecraft.custom:minecraft.walk_one_cm "Distance Walked in cm"
 scoreboard objectives add cu_distUndeWater minecraft.custom:minecraft.walk_under_water_one_cm "Distance Walked Under Water in cm"
-
-#Dropped
 scoreboard objectives add q_acaciaBoat minecraft.dropped:minecraft:acacia_boat "Dropped Acacia Boat"
 scoreboard objectives add q_acaciaButton minecraft.dropped:minecraft:acacia_button "Dropped Acacia Button"
 scoreboard objectives add q_acaciaDoor minecraft.dropped:minecraft:acacia_door "Dropped Acacia Door"
@@ -1309,8 +1300,6 @@ scoreboard objectives add q_zombieHorseSEg minecraft.dropped:minecraft:zombie_ho
 scoreboard objectives add q_zombieSEgg minecraft.dropped:minecraft:zombie_spawn_egg "Dropped Zombie Spawn Egg"
 scoreboard objectives add q_zombieVillaSEg minecraft.dropped:minecraft:zombie_villager_spawn_egg "Dropped Zombie Villager Spawn Egg"
 scoreboard objectives add q_zombiePigliSEg minecraft.dropped:minecraft:zombified_piglin_spawn_egg "Dropped Zombified Piglin Spawn Egg"
-
-#Crafted
 scoreboard objectives add c_acaciaBoat minecraft.crafted:minecraft:acacia_boat "Crafted Acacia Boat"
 scoreboard objectives add c_acaciaButton minecraft.crafted:minecraft:acacia_button "Crafted Acacia Button"
 scoreboard objectives add c_acaciaDoor minecraft.crafted:minecraft:acacia_door "Crafted Acacia Door"
@@ -1926,8 +1915,6 @@ scoreboard objectives add c_yelloGlass minecraft.crafted:minecraft:yellow_staine
 scoreboard objectives add c_yelloGlassPane minecraft.crafted:minecraft:yellow_stained_glass_pane "Crafted Yellow Stained Glass Pane"
 scoreboard objectives add c_yelloTerra minecraft.crafted:minecraft:yellow_terracotta "Crafted Yellow Terracotta"
 scoreboard objectives add c_yelloWool minecraft.crafted:minecraft:yellow_wool "Crafted Yellow Wool"
-
-#Picked Up
 scoreboard objectives add p_acaciaBoat minecraft.picked_up:minecraft:acacia_boat "Picked Up Acacia Boat"
 scoreboard objectives add p_acaciaButton minecraft.picked_up:minecraft:acacia_button "Picked Up Acacia Button"
 scoreboard objectives add p_acaciaDoor minecraft.picked_up:minecraft:acacia_door "Picked Up Acacia Door"
@@ -2903,8 +2890,6 @@ scoreboard objectives add p_zombieHorseSEg minecraft.picked_up:minecraft:zombie_
 scoreboard objectives add p_zombieSEgg minecraft.picked_up:minecraft:zombie_spawn_egg "Picked Up Zombie Spawn Egg"
 scoreboard objectives add p_zombieVillaSEg minecraft.picked_up:minecraft:zombie_villager_spawn_egg "Picked Up Zombie Villager Spawn Egg"
 scoreboard objectives add p_zombiePigliSEg minecraft.picked_up:minecraft:zombified_piglin_spawn_egg "Picked Up Zombified Piglin Spawn Egg"
-
-#Used
 scoreboard objectives add u_acaciaBoat minecraft.used:minecraft:acacia_boat "Used Acacia Boat"
 scoreboard objectives add u_acaciaButton minecraft.used:minecraft:acacia_button "Used Acacia Button"
 scoreboard objectives add u_acaciaDoor minecraft.used:minecraft:acacia_door "Used Acacia Door"
@@ -3880,8 +3865,6 @@ scoreboard objectives add u_zombieHorseSEg minecraft.used:minecraft:zombie_horse
 scoreboard objectives add u_zombieSEgg minecraft.used:minecraft:zombie_spawn_egg "Used Zombie Spawn Egg"
 scoreboard objectives add u_zombieVillaSEg minecraft.used:minecraft:zombie_villager_spawn_egg "Used Zombie Villager Spawn Egg"
 scoreboard objectives add u_zombiePigliSEg minecraft.used:minecraft:zombified_piglin_spawn_egg "Used Zombified Piglin Spawn Egg"
-
-#Mined
 scoreboard objectives add m_acaciaButton minecraft.mined:minecraft:acacia_button "Mined Acacia Button"
 scoreboard objectives add m_acaciaDoor minecraft.mined:minecraft:acacia_door "Mined Acacia Door"
 scoreboard objectives add m_acaciaFence minecraft.mined:minecraft:acacia_fence "Mined Acacia Fence"
@@ -4645,8 +4628,6 @@ scoreboard objectives add m_yelloWBanner minecraft.mined:minecraft:yellow_wall_b
 scoreboard objectives add m_yelloWool minecraft.mined:minecraft:yellow_wool "Mined Yellow Wool"
 scoreboard objectives add m_zombieHead minecraft.mined:minecraft:zombie_head "Mined Zombie Head"
 scoreboard objectives add m_zombieWHead minecraft.mined:minecraft:zombie_wall_head "Mined Zombie Wall Head"
-
-#Broken
 scoreboard objectives add b_turtleHelmet minecraft.broken:minecraft:turtle_helmet "Broken Turtle Shell"
 scoreboard objectives add b_leatherBoots minecraft.broken:minecraft:leather_boots "Broken Leather Boots"
 scoreboard objectives add b_leatherChestp minecraft.broken:minecraft:leather_chestplate "Broken Leather Tunic"
@@ -4712,6 +4693,4 @@ scoreboard objectives add b_elytra minecraft.broken:minecraft:elytra "Broken Ely
 scoreboard objectives add b_shield minecraft.broken:minecraft:shield "Broken Shield"
 scoreboard objectives add b_crossbow minecraft.broken:minecraft:crossbow "Broken Crossbow"
 scoreboard objectives add b_warpFunguStick minecraft.broken:minecraft:warped_fungus_on_a_stick "Broken Warped Fungus on a Stick"
-
-#Install Message
 tellraw @a ["",{"text":"Successfully loaded","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"Record Every Minecraft Statistic\" ","color":"gold"},{"text":" by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]

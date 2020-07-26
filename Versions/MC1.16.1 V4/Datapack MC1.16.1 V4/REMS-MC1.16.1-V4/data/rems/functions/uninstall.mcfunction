@@ -1,4 +1,3 @@
-#General
 scoreboard objectives remove g_air
 scoreboard objectives remove g_armor
 scoreboard objectives remove g_food
@@ -6,8 +5,6 @@ scoreboard objectives remove g_health
 scoreboard objectives remove g_level
 scoreboard objectives remove g_totalKills
 scoreboard objectives remove g_xp
-
-#Killed By
 scoreboard objectives remove d_effectCloud
 scoreboard objectives remove d_armorStand
 scoreboard objectives remove d_arrow
@@ -131,8 +128,6 @@ scoreboard objectives remove d_teamLPurple
 scoreboard objectives remove d_teamRed
 scoreboard objectives remove d_teamWhite
 scoreboard objectives remove d_teamYellow
-
-#Killed
 scoreboard objectives remove k_effectCloud
 scoreboard objectives remove k_armorStand
 scoreboard objectives remove k_arrow
@@ -256,8 +251,6 @@ scoreboard objectives remove k_teamLPurple
 scoreboard objectives remove k_teamRed
 scoreboard objectives remove k_teamWhite
 scoreboard objectives remove k_teamYellow
-
-#Custom
 scoreboard objectives remove cu_animalBred
 scoreboard objectives remove cu_distAviate
 scoreboard objectives remove cu_ringBell
@@ -332,8 +325,6 @@ scoreboard objectives remove cu_useCauldron
 scoreboard objectives remove cu_distOnWater
 scoreboard objectives remove cu_distWalk
 scoreboard objectives remove cu_distUndeWater
-
-#Dropped
 scoreboard objectives remove q_acaciaBoat
 scoreboard objectives remove q_acaciaButton
 scoreboard objectives remove q_acaciaDoor
@@ -1309,8 +1300,6 @@ scoreboard objectives remove q_zombieHorseSEg
 scoreboard objectives remove q_zombieSEgg
 scoreboard objectives remove q_zombieVillaSEg
 scoreboard objectives remove q_zombiePigliSEg
-
-#Crafted
 scoreboard objectives remove c_acaciaBoat
 scoreboard objectives remove c_acaciaButton
 scoreboard objectives remove c_acaciaDoor
@@ -1926,8 +1915,6 @@ scoreboard objectives remove c_yelloGlass
 scoreboard objectives remove c_yelloGlassPane
 scoreboard objectives remove c_yelloTerra
 scoreboard objectives remove c_yelloWool
-
-#Picked Up
 scoreboard objectives remove p_acaciaBoat
 scoreboard objectives remove p_acaciaButton
 scoreboard objectives remove p_acaciaDoor
@@ -2903,8 +2890,6 @@ scoreboard objectives remove p_zombieHorseSEg
 scoreboard objectives remove p_zombieSEgg
 scoreboard objectives remove p_zombieVillaSEg
 scoreboard objectives remove p_zombiePigliSEg
-
-#Used
 scoreboard objectives remove u_acaciaBoat
 scoreboard objectives remove u_acaciaButton
 scoreboard objectives remove u_acaciaDoor
@@ -3880,8 +3865,6 @@ scoreboard objectives remove u_zombieHorseSEg
 scoreboard objectives remove u_zombieSEgg
 scoreboard objectives remove u_zombieVillaSEg
 scoreboard objectives remove u_zombiePigliSEg
-
-#Mined
 scoreboard objectives remove m_acaciaButton
 scoreboard objectives remove m_acaciaDoor
 scoreboard objectives remove m_acaciaFence
@@ -4645,8 +4628,6 @@ scoreboard objectives remove m_yelloWBanner
 scoreboard objectives remove m_yelloWool
 scoreboard objectives remove m_zombieHead
 scoreboard objectives remove m_zombieWHead
-
-#Broken
 scoreboard objectives remove b_turtleHelmet
 scoreboard objectives remove b_leatherBoots
 scoreboard objectives remove b_leatherChestp
@@ -4712,6 +4693,4 @@ scoreboard objectives remove b_elytra
 scoreboard objectives remove b_shield
 scoreboard objectives remove b_crossbow
 scoreboard objectives remove b_warpFunguStick
-
-#Uninstall Message
 tellraw @a ["",{"text":"Successfully uninstalled","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"Record Every Minecraft Statistic\" ","color":"gold"},{"text":" by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
