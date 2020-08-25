@@ -42,7 +42,8 @@ Keep in mind you have to be a server operator to use this command
 If you want to add it to a newly generated world, on the world generaton screen you have the possibility to include a datapack by default.
 Or on a server, create a folder and name it like the server would (specified in the server.properties) and in this folder create another folder called "datapacks" and place the Zip in it
 
-If you want to add it to an existing world, you open its world folder, enter the datapacks folder and move the zip file in that datapacks folder. Ingame you might have to run ``/reload`` for the pack to be loaded
+If you want to add it to an existing world, you open its world folder, enter the datapacks folder and move the zip file in that datapacks folder. Ingame you might have to run ``/reload`` for the pack to be loaded.
+The Datapack won't be able to display previously increased statistics and you have to manually add them to your stats if you want both, your ingame statistics and the datapack to display the same score.
 
 ## Scoreboard creation guide:
 
