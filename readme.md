@@ -1,6 +1,42 @@
 A Minecraft Datapck dedicated towards adding every single Minecraft statistic as a Scoreboard.
 Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
 
+## Usage:
+
+Ingame you have to run "/scoreboard objectives setdisplay sidebar [​scoreboard name here] for it to display the desired Scoreboard on the Sidebar.
+
+The scoreboard names consist of
+
+- g (for general)
+- k (for killed [​number of mob])
+- b (for broken)
+- c (for crafted)
+- cu (for custom)
+- q (for dropped)
+- d (for deaths [​through number of mob])
+- m (for mined)
+- p (for picked up)u (for used/placed)
+
+Keep in mind you have to be a server operator to use this command
+
+## Examples for Scoreboard names:
+
+- ``g_totalKills`` shows how many Entities you have killed in total
+
+![grafik](https://user-images.githubusercontent.com/42120270/91225660-458e1600-e724-11ea-9655-8b8012192e48.png)
+
+- ``k_sheep`` shows how many Sheep you have killed
+
+![grafik](https://user-images.githubusercontent.com/42120270/91225819-7cfcc280-e724-11ea-8bd3-1c10715bbec1.png)
+
+- ``b_goldenHoe`` shows how many Golden Hoes you have broken
+
+![grafik](https://user-images.githubusercontent.com/42120270/91225490-f8aa3f80-e723-11ea-83e8-a25058bda633.png)
+
+- ``q_ocelotSEgg`` shows how many Ocelet Spwan Eggs you have dropped
+
+![grafik](https://user-images.githubusercontent.com/42120270/91226023-bd5c4080-e724-11ea-9e53-47774dc28c11.png)
+
 ## Installation guide:
 
 If you want to add it to a newly generated world, on the world generaton screen you have the possibility to include a datapack by default.
