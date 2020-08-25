@@ -26,6 +26,8 @@ Keep in mind you have to be a server operator to use this command
 
 ## Examples for Scoreboard names:
 
+As Minecraft limits how long a Scoreboard name can be, the Scoreboard names are oriented on the Minecraft ID you get when howering over an item with F3 + H enabled/when looking at a block with F3 open
+
 - ``g_totalKills`` shows how many Entities you have killed in total
 
 ![grafik](https://user-images.githubusercontent.com/42120270/91225660-458e1600-e724-11ea-9655-8b8012192e48.png)
