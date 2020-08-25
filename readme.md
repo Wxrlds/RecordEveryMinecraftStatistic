@@ -1,4 +1,4 @@
-A Minecraft Datapck dedicated towards adding every single Minecraft Statistic as a Scoreboard.
+A Minecraft Datapck dedicated towards adding every single Minecraft statistic as a Scoreboard.
 Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
 
 ## Installation guide:
