@@ -19,7 +19,8 @@ The scoreboard names consist of
 - q (for dropped)
 - d (for deaths [​through number of mob])
 - m (for mined)
-- p (for picked up)u (for used/placed)
+- p (for picked up)
+- u (for used/placed)
 
 Keep in mind you have to be a server operator to use this command
 
