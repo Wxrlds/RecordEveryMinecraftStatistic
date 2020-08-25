@@ -3,7 +3,7 @@ Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraf
 
 ## Usage:
 
-Ingame you have to run "/scoreboard objectives setdisplay sidebar [​scoreboard name here] for it to display the desired Scoreboard on the Sidebar.
+Ingame you have to run "/scoreboard objectives setdisplay sidebar [​scoreboard name here]" for it to display the desired Scoreboard on the Sidebar.
 
 The scoreboard names consist of
 
