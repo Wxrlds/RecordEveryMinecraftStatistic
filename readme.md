@@ -1,7 +1,7 @@
 A Minecraft Datapck dedicated towards adding every single Minecraft statistic as a Scoreboard.
 It automatically tracks and updates every statistic
 
-Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
+Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
 
