@@ -2,6 +2,7 @@ A Minecraft Datapck dedicated towards adding every single Minecraft statistic as
 It automatically tracks and updates every statistic
 
 Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
+
 [Planet Minecraft page](https://www.planetminecraft.com/data-pack/record-every-minecraft-statistic/)
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
