@@ -1,0 +1,859 @@
+-----------------------------------------------------------------
+*** WARNING ***
+Don't use the item ID for anything "proper"!!
+It's provided here for completeness's sake, it's different in every world.
+-----------------------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Recipe name, Tags
+-----------------------------------------------------------------
+Minecraft, minecraft:acacia_boat, 902, Acacia Boat, minecraft:acacia_boat, minecraft:boats
+Minecraft, minecraft:acacia_button, 309, Acacia Button, minecraft:acacia_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:acacia_door, 562, Acacia Door, minecraft:acacia_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:acacia_fence, 212, Acacia Fence, minecraft:acacia_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:acacia_fence_gate, 256, Acacia Fence Gate, minecraft:acacia_fence_gate, 
+Minecraft, minecraft:acacia_planks, 19, Acacia Planks, minecraft:acacia_planks, minecraft:planks
+Minecraft, minecraft:acacia_pressure_plate, 195, Acacia Pressure Plate, minecraft:acacia_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:acacia_sign, 656, Acacia Sign, minecraft:acacia_sign, minecraft:signs
+Minecraft, minecraft:acacia_slab, 142, Acacia Slab, minecraft:acacia_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:acacia_stairs, 369, Acacia Stairs, minecraft:acacia_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:acacia_trapdoor, 230, Acacia Trapdoor, minecraft:acacia_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:acacia_wood, 65, Acacia Wood, minecraft:acacia_wood, minecraft:acacia_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:activator_rail, 329, Activator Rail, minecraft:activator_rail, minecraft:rails
+Minecraft, minecraft:andesite, 6, Andesite, minecraft:andesite, 
+Minecraft, minecraft:andesite_slab, 552, Andesite Slab, minecraft:andesite_slab, minecraft:slabs
+Minecraft, minecraft:andesite_slab, 552, Andesite Slab, minecraft:andesite_slab_from_andesite_stonecutting, minecraft:slabs
+Minecraft, minecraft:andesite_stairs, 539, Andesite Stairs, minecraft:andesite_stairs, minecraft:stairs
+Minecraft, minecraft:andesite_stairs, 539, Andesite Stairs, minecraft:andesite_stairs_from_andesite_stonecutting, minecraft:stairs
+Minecraft, minecraft:andesite_wall, 296, Andesite Wall, minecraft:andesite_wall, minecraft:walls
+Minecraft, minecraft:andesite_wall, 296, Andesite Wall, minecraft:andesite_wall_from_andesite_stonecutting, minecraft:walls
+Minecraft, minecraft:anvil, 314, Anvil, minecraft:anvil, minecraft:anvil
+Minecraft, minecraft:armor_stand, 860, Armor Stand, minecraft:armor_stand, 
+Minecraft, minecraft:arrow, 575, Arrow, minecraft:arrow, minecraft:arrows
+Minecraft, minecraft:baked_potato, 832, Baked Potato, minecraft:baked_potato, 
+Minecraft, minecraft:baked_potato, 832, Baked Potato, minecraft:baked_potato_from_campfire_cooking, 
+Minecraft, minecraft:baked_potato, 832, Baked Potato, minecraft:baked_potato_from_smoking, 
+Minecraft, minecraft:barrel, 936, Barrel, minecraft:barrel, 
+Minecraft, minecraft:beacon, 286, Beacon, minecraft:beacon, 
+Minecraft, minecraft:beehive, 954, Beehive, minecraft:beehive, 
+Minecraft, minecraft:beetroot_soup, 891, Beetroot Soup, minecraft:beetroot_soup, 
+Minecraft, minecraft:birch_boat, 900, Birch Boat, minecraft:birch_boat, minecraft:boats
+Minecraft, minecraft:birch_button, 307, Birch Button, minecraft:birch_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:birch_door, 560, Birch Door, minecraft:birch_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:birch_fence, 210, Birch Fence, minecraft:birch_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:birch_fence_gate, 254, Birch Fence Gate, minecraft:birch_fence_gate, 
+Minecraft, minecraft:birch_planks, 17, Birch Planks, minecraft:birch_planks, minecraft:planks
+Minecraft, minecraft:birch_pressure_plate, 193, Birch Pressure Plate, minecraft:birch_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:birch_sign, 654, Birch Sign, minecraft:birch_sign, minecraft:signs
+Minecraft, minecraft:birch_slab, 140, Birch Slab, minecraft:birch_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:birch_stairs, 281, Birch Stairs, minecraft:birch_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:birch_trapdoor, 228, Birch Trapdoor, minecraft:birch_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:birch_wood, 63, Birch Wood, minecraft:birch_wood, minecraft:birch_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:black_banner, 885, Black Banner, minecraft:black_banner, minecraft:banners
+Minecraft, minecraft:black_bed, 731, Black Bed, minecraft:black_bed, minecraft:beds
+Minecraft, minecraft:black_bed, 731, Black Bed, minecraft:black_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:black_carpet, 365, Black Carpet, minecraft:black_carpet, minecraft:carpets
+Minecraft, minecraft:black_carpet, 365, Black Carpet, minecraft:black_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:black_concrete_powder, 495, Black Concrete Powder, minecraft:black_concrete_powder, 
+Minecraft, minecraft:black_dye, 711, Black Dye, minecraft:black_dye, 
+Minecraft, minecraft:black_dye, 711, Black Dye, minecraft:black_dye_from_wither_rose, 
+Minecraft, minecraft:black_glazed_terracotta, 463, Black Glazed Terracotta, minecraft:black_glazed_terracotta, 
+Minecraft, minecraft:black_stained_glass, 394, Black Stained Glass, minecraft:black_stained_glass, 
+Minecraft, minecraft:black_stained_glass_pane, 410, Black Stained Glass Pane, minecraft:black_stained_glass_pane, 
+Minecraft, minecraft:black_stained_glass_pane, 410, Black Stained Glass Pane, minecraft:black_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:black_terracotta, 346, Black Terracotta, minecraft:black_terracotta, 
+Minecraft, minecraft:black_wool, 110, Black Wool, minecraft:black_wool, minecraft:wool
+Minecraft, minecraft:blackstone_slab, 964, Blackstone Slab, minecraft:blackstone_slab, minecraft:slabs
+Minecraft, minecraft:blackstone_slab, 964, Blackstone Slab, minecraft:blackstone_slab_from_blackstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:blackstone_stairs, 965, Blackstone Stairs, minecraft:blackstone_stairs, minecraft:stairs
+Minecraft, minecraft:blackstone_stairs, 965, Blackstone Stairs, minecraft:blackstone_stairs_from_blackstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:blackstone_wall, 301, Blackstone Wall, minecraft:blackstone_wall, minecraft:walls
+Minecraft, minecraft:blackstone_wall, 301, Blackstone Wall, minecraft:blackstone_wall_from_blackstone_stonecutting, minecraft:walls
+Minecraft, minecraft:blast_furnace, 938, Blast Furnace, minecraft:blast_furnace, 
+Minecraft, minecraft:blaze_powder, 753, Blaze Powder, minecraft:blaze_powder, 
+Minecraft, minecraft:blue_banner, 881, Blue Banner, minecraft:blue_banner, minecraft:banners
+Minecraft, minecraft:blue_bed, 727, Blue Bed, minecraft:blue_bed, minecraft:beds
+Minecraft, minecraft:blue_bed, 727, Blue Bed, minecraft:blue_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:blue_carpet, 361, Blue Carpet, minecraft:blue_carpet, minecraft:carpets
+Minecraft, minecraft:blue_carpet, 361, Blue Carpet, minecraft:blue_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:blue_concrete_powder, 491, Blue Concrete Powder, minecraft:blue_concrete_powder, 
+Minecraft, minecraft:blue_dye, 707, Blue Dye, minecraft:blue_dye, 
+Minecraft, minecraft:blue_dye, 707, Blue Dye, minecraft:blue_dye_from_cornflower, 
+Minecraft, minecraft:blue_glazed_terracotta, 459, Blue Glazed Terracotta, minecraft:blue_glazed_terracotta, 
+Minecraft, minecraft:blue_ice, 527, Blue Ice, minecraft:blue_ice, 
+Minecraft, minecraft:blue_stained_glass, 390, Blue Stained Glass, minecraft:blue_stained_glass, 
+Minecraft, minecraft:blue_stained_glass_pane, 406, Blue Stained Glass Pane, minecraft:blue_stained_glass_pane, 
+Minecraft, minecraft:blue_stained_glass_pane, 406, Blue Stained Glass Pane, minecraft:blue_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:blue_terracotta, 342, Blue Terracotta, minecraft:blue_terracotta, 
+Minecraft, minecraft:blue_wool, 106, Blue Wool, minecraft:blue_wool, minecraft:wool
+Minecraft, minecraft:bone_block, 428, Bone Block, minecraft:bone_block, 
+Minecraft, minecraft:bone_meal, 712, Bone Meal, minecraft:bone_meal, 
+Minecraft, minecraft:bone_meal, 712, Bone Meal, minecraft:bone_meal_from_bone_block, 
+Minecraft, minecraft:book, 678, Book, minecraft:book, 
+Minecraft, minecraft:bookshelf, 168, Bookshelf, minecraft:bookshelf, 
+Minecraft, minecraft:bow, 574, Bow, minecraft:bow, 
+Minecraft, minecraft:bowl, 614, Bowl, minecraft:bowl, 
+Minecraft, minecraft:bread, 621, Bread, minecraft:bread, 
+Minecraft, minecraft:brewing_stand, 755, Brewing Stand, minecraft:brewing_stand, 
+Minecraft, minecraft:brick, 674, Brick, minecraft:brick, 
+Minecraft, minecraft:brick_slab, 152, Brick Slab, minecraft:brick_slab, minecraft:slabs
+Minecraft, minecraft:brick_slab, 152, Brick Slab, minecraft:brick_slab_from_bricks_stonecutting, minecraft:slabs
+Minecraft, minecraft:brick_stairs, 260, Brick Stairs, minecraft:brick_stairs, minecraft:stairs
+Minecraft, minecraft:brick_stairs, 260, Brick Stairs, minecraft:brick_stairs_from_bricks_stonecutting, minecraft:stairs
+Minecraft, minecraft:brick_wall, 289, Brick Wall, minecraft:brick_wall, minecraft:walls
+Minecraft, minecraft:brick_wall, 289, Brick Wall, minecraft:brick_wall_from_bricks_stonecutting, minecraft:walls
+Minecraft, minecraft:bricks, 166, Bricks, minecraft:bricks, 
+Minecraft, minecraft:brown_banner, 882, Brown Banner, minecraft:brown_banner, minecraft:banners
+Minecraft, minecraft:brown_bed, 728, Brown Bed, minecraft:brown_bed, minecraft:beds
+Minecraft, minecraft:brown_bed, 728, Brown Bed, minecraft:brown_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:brown_carpet, 362, Brown Carpet, minecraft:brown_carpet, minecraft:carpets
+Minecraft, minecraft:brown_carpet, 362, Brown Carpet, minecraft:brown_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:brown_concrete_powder, 492, Brown Concrete Powder, minecraft:brown_concrete_powder, 
+Minecraft, minecraft:brown_dye, 708, Brown Dye, minecraft:brown_dye, 
+Minecraft, minecraft:brown_glazed_terracotta, 460, Brown Glazed Terracotta, minecraft:brown_glazed_terracotta, 
+Minecraft, minecraft:brown_stained_glass, 391, Brown Stained Glass, minecraft:brown_stained_glass, 
+Minecraft, minecraft:brown_stained_glass_pane, 407, Brown Stained Glass Pane, minecraft:brown_stained_glass_pane, 
+Minecraft, minecraft:brown_stained_glass_pane, 407, Brown Stained Glass Pane, minecraft:brown_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:brown_terracotta, 343, Brown Terracotta, minecraft:brown_terracotta, 
+Minecraft, minecraft:brown_wool, 107, Brown Wool, minecraft:brown_wool, minecraft:wool
+Minecraft, minecraft:bucket, 660, Bucket, minecraft:bucket, 
+Minecraft, minecraft:cake, 715, Cake, minecraft:cake, 
+Minecraft, minecraft:campfire, 949, Campfire, minecraft:campfire, 
+Minecraft, minecraft:carrot_on_a_stick, 842, Carrot on a Stick, minecraft:carrot_on_a_stick, 
+Minecraft, minecraft:cartography_table, 939, Cartography Table, minecraft:cartography_table, 
+Minecraft, minecraft:cauldron, 756, Cauldron, minecraft:cauldron, 
+Minecraft, minecraft:chain, 248, Chain, minecraft:chain, 
+Minecraft, minecraft:charcoal, 577, Charcoal, minecraft:charcoal, minecraft:coals
+Minecraft, minecraft:chest, 180, Chest, minecraft:chest, 
+Minecraft, minecraft:chest_minecart, 680, Minecart with Chest, minecraft:chest_minecart, 
+Minecraft, minecraft:chiseled_nether_bricks, 266, Chiseled Nether Bricks, minecraft:chiseled_nether_bricks, 
+Minecraft, minecraft:chiseled_nether_bricks, 266, Chiseled Nether Bricks, minecraft:chiseled_nether_bricks_from_nether_bricks_stonecutting, 
+Minecraft, minecraft:chiseled_polished_blackstone, 970, Chiseled Polished Blackstone, minecraft:chiseled_polished_blackstone, 
+Minecraft, minecraft:chiseled_polished_blackstone, 970, Chiseled Polished Blackstone, minecraft:chiseled_polished_blackstone_from_blackstone_stonecutting, 
+Minecraft, minecraft:chiseled_polished_blackstone, 970, Chiseled Polished Blackstone, minecraft:chiseled_polished_blackstone_from_polished_blackstone_stonecutting, 
+Minecraft, minecraft:chiseled_quartz_block, 324, Chiseled Quartz Block, minecraft:chiseled_quartz_block, 
+Minecraft, minecraft:chiseled_quartz_block, 324, Chiseled Quartz Block, minecraft:chiseled_quartz_block_from_quartz_block_stonecutting, 
+Minecraft, minecraft:chiseled_red_sandstone, 419, Chiseled Red Sandstone, minecraft:chiseled_red_sandstone, 
+Minecraft, minecraft:chiseled_red_sandstone, 419, Chiseled Red Sandstone, minecraft:chiseled_red_sandstone_from_red_sandstone_stonecutting, 
+Minecraft, minecraft:chiseled_sandstone, 82, Chiseled Sandstone, minecraft:chiseled_sandstone, 
+Minecraft, minecraft:chiseled_sandstone, 82, Chiseled Sandstone, minecraft:chiseled_sandstone_from_sandstone_stonecutting, 
+Minecraft, minecraft:chiseled_stone_bricks, 243, Chiseled Stone Bricks, minecraft:chiseled_stone_bricks, minecraft:stone_bricks
+Minecraft, minecraft:chiseled_stone_bricks, 243, Chiseled Stone Bricks, minecraft:chiseled_stone_bricks_from_stone_bricks_stonecutting, minecraft:stone_bricks
+Minecraft, minecraft:chiseled_stone_bricks, 243, Chiseled Stone Bricks, minecraft:chiseled_stone_bricks_stone_from_stonecutting, minecraft:stone_bricks
+Minecraft, minecraft:clay, 206, Clay, minecraft:clay, 
+Minecraft, minecraft:clock, 685, Clock, minecraft:clock, minecraft:piglin_loved
+Minecraft, minecraft:coal, 576, Coal, minecraft:coal, minecraft:coals
+Minecraft, minecraft:coal, 576, Coal, minecraft:coal_from_blasting, minecraft:coals
+Minecraft, minecraft:coal, 576, Coal, minecraft:coal_from_smelting, minecraft:coals
+Minecraft, minecraft:coal_block, 367, Block of Coal, minecraft:coal_block, 
+Minecraft, minecraft:coarse_dirt, 10, Coarse Dirt, minecraft:coarse_dirt, 
+Minecraft, minecraft:cobblestone_slab, 151, Cobblestone Slab, minecraft:cobblestone_slab, minecraft:slabs
+Minecraft, minecraft:cobblestone_slab, 151, Cobblestone Slab, minecraft:cobblestone_slab_from_cobblestone_stonecutting, minecraft:slabs
+Minecraft, minecraft:cobblestone_stairs, 188, Cobblestone Stairs, minecraft:cobblestone_stairs, minecraft:stairs
+Minecraft, minecraft:cobblestone_stairs, 188, Cobblestone Stairs, minecraft:cobblestone_stairs_from_cobblestone_stonecutting, minecraft:stairs
+Minecraft, minecraft:cobblestone_wall, 287, Cobblestone Wall, minecraft:cobblestone_wall, minecraft:walls
+Minecraft, minecraft:cobblestone_wall, 287, Cobblestone Wall, minecraft:cobblestone_wall_from_cobblestone_stonecutting, minecraft:walls
+Minecraft, minecraft:comparator, 567, Redstone Comparator, minecraft:comparator, 
+Minecraft, minecraft:compass, 683, Compass, minecraft:compass, 
+Minecraft, minecraft:composter, 935, Composter, minecraft:composter, 
+Minecraft, minecraft:conduit, 528, Conduit, minecraft:conduit, 
+Minecraft, minecraft:cooked_beef, 740, Steak, minecraft:cooked_beef, 
+Minecraft, minecraft:cooked_beef, 740, Steak, minecraft:cooked_beef_from_campfire_cooking, 
+Minecraft, minecraft:cooked_beef, 740, Steak, minecraft:cooked_beef_from_smoking, 
+Minecraft, minecraft:cooked_chicken, 742, Cooked Chicken, minecraft:cooked_chicken, 
+Minecraft, minecraft:cooked_chicken, 742, Cooked Chicken, minecraft:cooked_chicken_from_campfire_cooking, 
+Minecraft, minecraft:cooked_chicken, 742, Cooked Chicken, minecraft:cooked_chicken_from_smoking, 
+Minecraft, minecraft:cooked_cod, 691, Cooked Cod, minecraft:cooked_cod, minecraft:fishes
+Minecraft, minecraft:cooked_cod, 691, Cooked Cod, minecraft:cooked_cod_from_campfire_cooking, minecraft:fishes
+Minecraft, minecraft:cooked_cod, 691, Cooked Cod, minecraft:cooked_cod_from_smoking, minecraft:fishes
+Minecraft, minecraft:cooked_mutton, 869, Cooked Mutton, minecraft:cooked_mutton, 
+Minecraft, minecraft:cooked_mutton, 869, Cooked Mutton, minecraft:cooked_mutton_from_campfire_cooking, 
+Minecraft, minecraft:cooked_mutton, 869, Cooked Mutton, minecraft:cooked_mutton_from_smoking, 
+Minecraft, minecraft:cooked_porkchop, 648, Cooked Porkchop, minecraft:cooked_porkchop, 
+Minecraft, minecraft:cooked_porkchop, 648, Cooked Porkchop, minecraft:cooked_porkchop_from_campfire_cooking, 
+Minecraft, minecraft:cooked_porkchop, 648, Cooked Porkchop, minecraft:cooked_porkchop_from_smoking, 
+Minecraft, minecraft:cooked_rabbit, 856, Cooked Rabbit, minecraft:cooked_rabbit, 
+Minecraft, minecraft:cooked_rabbit, 856, Cooked Rabbit, minecraft:cooked_rabbit_from_campfire_cooking, 
+Minecraft, minecraft:cooked_rabbit, 856, Cooked Rabbit, minecraft:cooked_rabbit_from_smoking, 
+Minecraft, minecraft:cooked_salmon, 692, Cooked Salmon, minecraft:cooked_salmon, minecraft:fishes
+Minecraft, minecraft:cooked_salmon, 692, Cooked Salmon, minecraft:cooked_salmon_from_campfire_cooking, minecraft:fishes
+Minecraft, minecraft:cooked_salmon, 692, Cooked Salmon, minecraft:cooked_salmon_from_smoking, minecraft:fishes
+Minecraft, minecraft:cookie, 732, Cookie, minecraft:cookie, 
+Minecraft, minecraft:cracked_nether_bricks, 265, Cracked Nether Bricks, minecraft:cracked_nether_bricks, 
+Minecraft, minecraft:cracked_polished_blackstone_bricks, 974, Cracked Polished Blackstone Bricks, minecraft:cracked_polished_blackstone_bricks, 
+Minecraft, minecraft:cracked_stone_bricks, 242, Cracked Stone Bricks, minecraft:cracked_stone_bricks, minecraft:stone_bricks
+Minecraft, minecraft:crafting_table, 183, Crafting Table, minecraft:crafting_table, 
+Minecraft, minecraft:creeper_banner_pattern, 930, Banner Pattern, minecraft:creeper_banner_pattern, 
+Minecraft, minecraft:crimson_button, 311, Crimson Button, minecraft:crimson_button, minecraft:buttons, minecraft:non_flammable_wood, minecraft:wooden_buttons
+Minecraft, minecraft:crimson_door, 564, Crimson Door, minecraft:crimson_door, minecraft:doors, minecraft:non_flammable_wood, minecraft:wooden_doors
+Minecraft, minecraft:crimson_fence, 214, Crimson Fence, minecraft:crimson_fence, minecraft:fences, minecraft:non_flammable_wood, minecraft:wooden_fences
+Minecraft, minecraft:crimson_fence_gate, 258, Crimson Fence Gate, minecraft:crimson_fence_gate, minecraft:non_flammable_wood
+Minecraft, minecraft:crimson_hyphae, 67, Crimson Hyphae, minecraft:crimson_hyphae, minecraft:crimson_stems, minecraft:logs, minecraft:non_flammable_wood
+Minecraft, minecraft:crimson_planks, 21, Crimson Planks, minecraft:crimson_planks, minecraft:non_flammable_wood, minecraft:planks
+Minecraft, minecraft:crimson_pressure_plate, 197, Crimson Pressure Plate, minecraft:crimson_pressure_plate, minecraft:non_flammable_wood, minecraft:wooden_pressure_plates
+Minecraft, minecraft:crimson_sign, 658, Crimson Sign, minecraft:crimson_sign, minecraft:non_flammable_wood, minecraft:signs
+Minecraft, minecraft:crimson_slab, 144, Crimson Slab, minecraft:crimson_slab, minecraft:non_flammable_wood, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:crimson_stairs, 283, Crimson Stairs, minecraft:crimson_stairs, minecraft:non_flammable_wood, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:crimson_trapdoor, 232, Crimson Trapdoor, minecraft:crimson_trapdoor, minecraft:non_flammable_wood, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:crossbow, 926, Crossbow, minecraft:crossbow, 
+Minecraft, minecraft:cut_red_sandstone, 420, Cut Red Sandstone, minecraft:cut_red_sandstone, 
+Minecraft, minecraft:cut_red_sandstone, 420, Cut Red Sandstone, minecraft:cut_red_sandstone_from_red_sandstone_stonecutting, 
+Minecraft, minecraft:cut_red_sandstone_slab, 157, Cut Red Sandstone Slab, minecraft:cut_red_sandstone_slab, minecraft:slabs
+Minecraft, minecraft:cut_red_sandstone_slab, 157, Cut Red Sandstone Slab, minecraft:cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:cut_red_sandstone_slab, 157, Cut Red Sandstone Slab, minecraft:cut_red_sandstone_slab_from_red_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:cut_sandstone, 83, Cut Sandstone, minecraft:cut_sandstone, 
+Minecraft, minecraft:cut_sandstone, 83, Cut Sandstone, minecraft:cut_sandstone_from_sandstone_stonecutting, 
+Minecraft, minecraft:cut_sandstone_slab, 149, Cut Sandstone Slab, minecraft:cut_sandstone_slab, minecraft:slabs
+Minecraft, minecraft:cut_sandstone_slab, 149, Cut Sandstone Slab, minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:cut_sandstone_slab, 149, Cut Sandstone Slab, minecraft:cut_sandstone_slab_from_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:cyan_banner, 879, Cyan Banner, minecraft:cyan_banner, minecraft:banners
+Minecraft, minecraft:cyan_bed, 725, Cyan Bed, minecraft:cyan_bed, minecraft:beds
+Minecraft, minecraft:cyan_bed, 725, Cyan Bed, minecraft:cyan_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:cyan_carpet, 359, Cyan Carpet, minecraft:cyan_carpet, minecraft:carpets
+Minecraft, minecraft:cyan_carpet, 359, Cyan Carpet, minecraft:cyan_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:cyan_concrete_powder, 489, Cyan Concrete Powder, minecraft:cyan_concrete_powder, 
+Minecraft, minecraft:cyan_dye, 705, Cyan Dye, minecraft:cyan_dye, 
+Minecraft, minecraft:cyan_glazed_terracotta, 457, Cyan Glazed Terracotta, minecraft:cyan_glazed_terracotta, 
+Minecraft, minecraft:cyan_stained_glass, 388, Cyan Stained Glass, minecraft:cyan_stained_glass, 
+Minecraft, minecraft:cyan_stained_glass_pane, 404, Cyan Stained Glass Pane, minecraft:cyan_stained_glass_pane, 
+Minecraft, minecraft:cyan_stained_glass_pane, 404, Cyan Stained Glass Pane, minecraft:cyan_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:cyan_terracotta, 340, Cyan Terracotta, minecraft:cyan_terracotta, 
+Minecraft, minecraft:cyan_wool, 104, Cyan Wool, minecraft:cyan_wool, minecraft:wool
+Minecraft, minecraft:dark_oak_boat, 903, Dark Oak Boat, minecraft:dark_oak_boat, minecraft:boats
+Minecraft, minecraft:dark_oak_button, 310, Dark Oak Button, minecraft:dark_oak_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:dark_oak_door, 563, Dark Oak Door, minecraft:dark_oak_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:dark_oak_fence, 213, Dark Oak Fence, minecraft:dark_oak_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:dark_oak_fence_gate, 257, Dark Oak Fence Gate, minecraft:dark_oak_fence_gate, 
+Minecraft, minecraft:dark_oak_planks, 20, Dark Oak Planks, minecraft:dark_oak_planks, minecraft:planks
+Minecraft, minecraft:dark_oak_pressure_plate, 196, Dark Oak Pressure Plate, minecraft:dark_oak_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:dark_oak_sign, 657, Dark Oak Sign, minecraft:dark_oak_sign, minecraft:signs
+Minecraft, minecraft:dark_oak_slab, 143, Dark Oak Slab, minecraft:dark_oak_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:dark_oak_stairs, 370, Dark Oak Stairs, minecraft:dark_oak_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:dark_oak_trapdoor, 231, Dark Oak Trapdoor, minecraft:dark_oak_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:dark_oak_wood, 66, Dark Oak Wood, minecraft:dark_oak_wood, minecraft:dark_oak_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:dark_prismarine, 413, Dark Prismarine, minecraft:dark_prismarine, 
+Minecraft, minecraft:dark_prismarine_slab, 161, Dark Prismarine Slab, minecraft:dark_prismarine_slab, minecraft:slabs
+Minecraft, minecraft:dark_prismarine_slab, 161, Dark Prismarine Slab, minecraft:dark_prismarine_slab_from_dark_prismarine_stonecutting, minecraft:slabs
+Minecraft, minecraft:dark_prismarine_stairs, 416, Dark Prismarine Stairs, minecraft:dark_prismarine_stairs, minecraft:stairs
+Minecraft, minecraft:dark_prismarine_stairs, 416, Dark Prismarine Stairs, minecraft:dark_prismarine_stairs_from_dark_prismarine_stonecutting, minecraft:stairs
+Minecraft, minecraft:daylight_detector, 320, Daylight Detector, minecraft:daylight_detector, 
+Minecraft, minecraft:detector_rail, 86, Detector Rail, minecraft:detector_rail, minecraft:rails
+Minecraft, minecraft:diamond, 578, Diamond, minecraft:diamond, minecraft:beacon_payment_items
+Minecraft, minecraft:diamond, 578, Diamond, minecraft:diamond_from_blasting, minecraft:beacon_payment_items
+Minecraft, minecraft:diamond, 578, Diamond, minecraft:diamond_from_smelting, minecraft:beacon_payment_items
+Minecraft, minecraft:diamond_axe, 606, Diamond Axe, minecraft:diamond_axe, fabric:axes
+Minecraft, minecraft:diamond_block, 182, Block of Diamond, minecraft:diamond_block, 
+Minecraft, minecraft:diamond_boots, 637, Diamond Boots, minecraft:diamond_boots, 
+Minecraft, minecraft:diamond_chestplate, 635, Diamond Chestplate, minecraft:diamond_chestplate, 
+Minecraft, minecraft:diamond_helmet, 634, Diamond Helmet, minecraft:diamond_helmet, 
+Minecraft, minecraft:diamond_hoe, 607, Diamond Hoe, minecraft:diamond_hoe, fabric:hoes
+Minecraft, minecraft:diamond_leggings, 636, Diamond Leggings, minecraft:diamond_leggings, 
+Minecraft, minecraft:diamond_pickaxe, 605, Diamond Pickaxe, minecraft:diamond_pickaxe, fabric:pickaxes
+Minecraft, minecraft:diamond_shovel, 604, Diamond Shovel, minecraft:diamond_shovel, fabric:shovels
+Minecraft, minecraft:diamond_sword, 603, Diamond Sword, minecraft:diamond_sword, fabric:swords
+Minecraft, minecraft:diorite, 4, Diorite, minecraft:diorite, 
+Minecraft, minecraft:diorite_slab, 555, Diorite Slab, minecraft:diorite_slab, minecraft:slabs
+Minecraft, minecraft:diorite_slab, 555, Diorite Slab, minecraft:diorite_slab_from_diorite_stonecutting, minecraft:slabs
+Minecraft, minecraft:diorite_stairs, 542, Diorite Stairs, minecraft:diorite_stairs, minecraft:stairs
+Minecraft, minecraft:diorite_stairs, 542, Diorite Stairs, minecraft:diorite_stairs_from_diorite_stonecutting, minecraft:stairs
+Minecraft, minecraft:diorite_wall, 300, Diorite Wall, minecraft:diorite_wall, minecraft:walls
+Minecraft, minecraft:diorite_wall, 300, Diorite Wall, minecraft:diorite_wall_from_diorite_stonecutting, minecraft:walls
+Minecraft, minecraft:dispenser, 80, Dispenser, minecraft:dispenser, 
+Minecraft, minecraft:dried_kelp, 736, Dried Kelp, minecraft:dried_kelp, 
+Minecraft, minecraft:dried_kelp, 736, Dried Kelp, minecraft:dried_kelp_from_campfire_cooking, 
+Minecraft, minecraft:dried_kelp, 736, Dried Kelp, minecraft:dried_kelp_from_smelting, 
+Minecraft, minecraft:dried_kelp, 736, Dried Kelp, minecraft:dried_kelp_from_smoking, 
+Minecraft, minecraft:dried_kelp_block, 676, Dried Kelp Block, minecraft:dried_kelp_block, 
+Minecraft, minecraft:dropper, 330, Dropper, minecraft:dropper, 
+Minecraft, minecraft:emerald, 827, Emerald, minecraft:emerald, minecraft:beacon_payment_items
+Minecraft, minecraft:emerald, 827, Emerald, minecraft:emerald_from_blasting, minecraft:beacon_payment_items
+Minecraft, minecraft:emerald, 827, Emerald, minecraft:emerald_from_smelting, minecraft:beacon_payment_items
+Minecraft, minecraft:emerald_block, 279, Block of Emerald, minecraft:emerald_block, 
+Minecraft, minecraft:enchanting_table, 269, Enchanting Table, minecraft:enchanting_table, 
+Minecraft, minecraft:end_crystal, 886, End Crystal, minecraft:end_crystal, 
+Minecraft, minecraft:end_rod, 172, End Rod, minecraft:end_rod, 
+Minecraft, minecraft:end_stone_brick_slab, 548, End Stone Brick Slab, minecraft:end_stone_brick_slab, minecraft:slabs
+Minecraft, minecraft:end_stone_brick_slab, 548, End Stone Brick Slab, minecraft:end_stone_brick_slab_from_end_stone_brick_stonecutting, minecraft:slabs
+Minecraft, minecraft:end_stone_brick_slab, 548, End Stone Brick Slab, minecraft:end_stone_brick_slab_from_end_stone_stonecutting, minecraft:slabs
+Minecraft, minecraft:end_stone_brick_stairs, 534, End Stone Brick Stairs, minecraft:end_stone_brick_stairs, minecraft:stairs
+Minecraft, minecraft:end_stone_brick_stairs, 534, End Stone Brick Stairs, minecraft:end_stone_brick_stairs_from_end_stone_brick_stonecutting, minecraft:stairs
+Minecraft, minecraft:end_stone_brick_stairs, 534, End Stone Brick Stairs, minecraft:end_stone_brick_stairs_from_end_stone_stonecutting, minecraft:stairs
+Minecraft, minecraft:end_stone_brick_wall, 299, End Stone Brick Wall, minecraft:end_stone_brick_wall, minecraft:walls
+Minecraft, minecraft:end_stone_brick_wall, 299, End Stone Brick Wall, minecraft:end_stone_brick_wall_from_end_stone_brick_stonecutting, minecraft:walls
+Minecraft, minecraft:end_stone_brick_wall, 299, End Stone Brick Wall, minecraft:end_stone_brick_wall_from_end_stone_stonecutting, minecraft:walls
+Minecraft, minecraft:end_stone_bricks, 272, End Stone Bricks, minecraft:end_stone_bricks, 
+Minecraft, minecraft:end_stone_bricks, 272, End Stone Bricks, minecraft:end_stone_bricks_from_end_stone_stonecutting, 
+Minecraft, minecraft:ender_chest, 277, Ender Chest, minecraft:ender_chest, 
+Minecraft, minecraft:ender_eye, 757, Eye of Ender, minecraft:ender_eye, 
+Minecraft, minecraft:fermented_spider_eye, 752, Fermented Spider Eye, minecraft:fermented_spider_eye, 
+Minecraft, minecraft:fire_charge, 824, Fire Charge, minecraft:fire_charge, 
+Minecraft, minecraft:firework_rocket, 846, Firework Rocket, minecraft:firework_rocket, 
+Minecraft, minecraft:firework_star, 847, Firework Star, minecraft:firework_star, 
+Minecraft, minecraft:fishing_rod, 684, Fishing Rod, minecraft:fishing_rod, 
+Minecraft, minecraft:fletching_table, 940, Fletching Table, minecraft:fletching_table, 
+Minecraft, minecraft:flint_and_steel, 572, Flint and Steel, minecraft:flint_and_steel, 
+Minecraft, minecraft:flower_banner_pattern, 929, Banner Pattern, minecraft:flower_banner_pattern, 
+Minecraft, minecraft:flower_pot, 829, Flower Pot, minecraft:flower_pot, 
+Minecraft, minecraft:furnace, 185, Furnace, minecraft:furnace, 
+Minecraft, minecraft:furnace_minecart, 681, Minecart with Furnace, minecraft:furnace_minecart, 
+Minecraft, minecraft:glass, 77, Glass, minecraft:glass, 
+Minecraft, minecraft:glass_bottle, 750, Glass Bottle, minecraft:glass_bottle, 
+Minecraft, minecraft:glass_pane, 249, Glass Pane, minecraft:glass_pane, 
+Minecraft, minecraft:glistering_melon_slice, 758, Glistering Melon Slice, minecraft:glistering_melon_slice, minecraft:piglin_loved
+Minecraft, minecraft:glowstone, 224, Glowstone, minecraft:glowstone, 
+Minecraft, minecraft:gold_block, 136, Block of Gold, minecraft:gold_block, minecraft:piglin_loved
+Minecraft, minecraft:gold_ingot, 580, Gold Ingot, minecraft:gold_ingot, minecraft:beacon_payment_items, minecraft:piglin_loved
+Minecraft, minecraft:gold_ingot, 580, Gold Ingot, minecraft:gold_ingot_from_blasting, minecraft:beacon_payment_items, minecraft:piglin_loved
+Minecraft, minecraft:gold_ingot, 580, Gold Ingot, minecraft:gold_ingot_from_gold_block, minecraft:beacon_payment_items, minecraft:piglin_loved
+Minecraft, minecraft:gold_ingot, 580, Gold Ingot, minecraft:gold_ingot_from_nuggets, minecraft:beacon_payment_items, minecraft:piglin_loved
+Minecraft, minecraft:gold_nugget, 747, Gold Nugget, minecraft:gold_nugget, 
+Minecraft, minecraft:gold_nugget, 747, Gold Nugget, minecraft:gold_nugget_from_blasting, 
+Minecraft, minecraft:gold_nugget, 747, Gold Nugget, minecraft:gold_nugget_from_smelting, 
+Minecraft, minecraft:golden_apple, 650, Golden Apple, minecraft:golden_apple, minecraft:piglin_loved
+Minecraft, minecraft:golden_axe, 596, Golden Axe, minecraft:golden_axe, fabric:axes, minecraft:piglin_loved
+Minecraft, minecraft:golden_boots, 641, Golden Boots, minecraft:golden_boots, minecraft:piglin_loved
+Minecraft, minecraft:golden_carrot, 835, Golden Carrot, minecraft:golden_carrot, minecraft:piglin_loved
+Minecraft, minecraft:golden_chestplate, 639, Golden Chestplate, minecraft:golden_chestplate, minecraft:piglin_loved
+Minecraft, minecraft:golden_helmet, 638, Golden Helmet, minecraft:golden_helmet, minecraft:piglin_loved
+Minecraft, minecraft:golden_hoe, 597, Golden Hoe, minecraft:golden_hoe, fabric:hoes, minecraft:piglin_loved
+Minecraft, minecraft:golden_leggings, 640, Golden Leggings, minecraft:golden_leggings, minecraft:piglin_loved
+Minecraft, minecraft:golden_pickaxe, 595, Golden Pickaxe, minecraft:golden_pickaxe, fabric:pickaxes, minecraft:piglin_loved
+Minecraft, minecraft:golden_shovel, 594, Golden Shovel, minecraft:golden_shovel, fabric:shovels, minecraft:piglin_loved
+Minecraft, minecraft:golden_sword, 593, Golden Sword, minecraft:golden_sword, fabric:swords, minecraft:piglin_loved
+Minecraft, minecraft:granite, 2, Granite, minecraft:granite, 
+Minecraft, minecraft:granite_slab, 551, Granite Slab, minecraft:granite_slab, minecraft:slabs
+Minecraft, minecraft:granite_slab, 551, Granite Slab, minecraft:granite_slab_from_granite_stonecutting, minecraft:slabs
+Minecraft, minecraft:granite_stairs, 538, Granite Stairs, minecraft:granite_stairs, minecraft:stairs
+Minecraft, minecraft:granite_stairs, 538, Granite Stairs, minecraft:granite_stairs_from_granite_stonecutting, minecraft:stairs
+Minecraft, minecraft:granite_wall, 293, Granite Wall, minecraft:granite_wall, minecraft:walls
+Minecraft, minecraft:granite_wall, 293, Granite Wall, minecraft:granite_wall_from_granite_stonecutting, minecraft:walls
+Minecraft, minecraft:gray_banner, 877, Gray Banner, minecraft:gray_banner, minecraft:banners
+Minecraft, minecraft:gray_bed, 723, Gray Bed, minecraft:gray_bed, minecraft:beds
+Minecraft, minecraft:gray_bed, 723, Gray Bed, minecraft:gray_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:gray_carpet, 357, Gray Carpet, minecraft:gray_carpet, minecraft:carpets
+Minecraft, minecraft:gray_carpet, 357, Gray Carpet, minecraft:gray_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:gray_concrete_powder, 487, Gray Concrete Powder, minecraft:gray_concrete_powder, 
+Minecraft, minecraft:gray_dye, 703, Gray Dye, minecraft:gray_dye, 
+Minecraft, minecraft:gray_glazed_terracotta, 455, Gray Glazed Terracotta, minecraft:gray_glazed_terracotta, 
+Minecraft, minecraft:gray_stained_glass, 386, Gray Stained Glass, minecraft:gray_stained_glass, 
+Minecraft, minecraft:gray_stained_glass_pane, 402, Gray Stained Glass Pane, minecraft:gray_stained_glass_pane, 
+Minecraft, minecraft:gray_stained_glass_pane, 402, Gray Stained Glass Pane, minecraft:gray_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:gray_terracotta, 338, Gray Terracotta, minecraft:gray_terracotta, 
+Minecraft, minecraft:gray_wool, 102, Gray Wool, minecraft:gray_wool, minecraft:wool
+Minecraft, minecraft:green_banner, 883, Green Banner, minecraft:green_banner, minecraft:banners
+Minecraft, minecraft:green_bed, 729, Green Bed, minecraft:green_bed, minecraft:beds
+Minecraft, minecraft:green_bed, 729, Green Bed, minecraft:green_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:green_carpet, 363, Green Carpet, minecraft:green_carpet, minecraft:carpets
+Minecraft, minecraft:green_carpet, 363, Green Carpet, minecraft:green_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:green_concrete_powder, 493, Green Concrete Powder, minecraft:green_concrete_powder, 
+Minecraft, minecraft:green_dye, 709, Green Dye, minecraft:green_dye, 
+Minecraft, minecraft:green_glazed_terracotta, 461, Green Glazed Terracotta, minecraft:green_glazed_terracotta, 
+Minecraft, minecraft:green_stained_glass, 392, Green Stained Glass, minecraft:green_stained_glass, 
+Minecraft, minecraft:green_stained_glass_pane, 408, Green Stained Glass Pane, minecraft:green_stained_glass_pane, 
+Minecraft, minecraft:green_stained_glass_pane, 408, Green Stained Glass Pane, minecraft:green_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:green_terracotta, 344, Green Terracotta, minecraft:green_terracotta, 
+Minecraft, minecraft:green_wool, 108, Green Wool, minecraft:green_wool, minecraft:wool
+Minecraft, minecraft:grindstone, 941, Grindstone, minecraft:grindstone, 
+Minecraft, minecraft:hay_block, 349, Hay Bale, minecraft:hay_block, 
+Minecraft, minecraft:heavy_weighted_pressure_plate, 319, Heavy Weighted Pressure Plate, minecraft:heavy_weighted_pressure_plate, 
+Minecraft, minecraft:honey_block, 956, Honey Block, minecraft:honey_block, 
+Minecraft, minecraft:honey_bottle, 955, Honey Bottle, minecraft:honey_bottle, 
+Minecraft, minecraft:honeycomb_block, 957, Honeycomb Block, minecraft:honeycomb_block, 
+Minecraft, minecraft:hopper, 323, Hopper, minecraft:hopper, 
+Minecraft, minecraft:hopper_minecart, 852, Minecart with Hopper, minecraft:hopper_minecart, 
+Minecraft, minecraft:iron_axe, 601, Iron Axe, minecraft:iron_axe, fabric:axes
+Minecraft, minecraft:iron_bars, 247, Iron Bars, minecraft:iron_bars, 
+Minecraft, minecraft:iron_block, 137, Block of Iron, minecraft:iron_block, 
+Minecraft, minecraft:iron_boots, 633, Iron Boots, minecraft:iron_boots, 
+Minecraft, minecraft:iron_chestplate, 631, Iron Chestplate, minecraft:iron_chestplate, 
+Minecraft, minecraft:iron_door, 557, Iron Door, minecraft:iron_door, minecraft:doors
+Minecraft, minecraft:iron_helmet, 630, Iron Helmet, minecraft:iron_helmet, 
+Minecraft, minecraft:iron_hoe, 602, Iron Hoe, minecraft:iron_hoe, fabric:hoes
+Minecraft, minecraft:iron_ingot, 579, Iron Ingot, minecraft:iron_ingot, minecraft:beacon_payment_items
+Minecraft, minecraft:iron_ingot, 579, Iron Ingot, minecraft:iron_ingot_from_blasting, minecraft:beacon_payment_items
+Minecraft, minecraft:iron_ingot, 579, Iron Ingot, minecraft:iron_ingot_from_iron_block, minecraft:beacon_payment_items
+Minecraft, minecraft:iron_ingot, 579, Iron Ingot, minecraft:iron_ingot_from_nuggets, minecraft:beacon_payment_items
+Minecraft, minecraft:iron_leggings, 632, Iron Leggings, minecraft:iron_leggings, 
+Minecraft, minecraft:iron_nugget, 906, Iron Nugget, minecraft:iron_nugget, 
+Minecraft, minecraft:iron_nugget, 906, Iron Nugget, minecraft:iron_nugget_from_blasting, 
+Minecraft, minecraft:iron_nugget, 906, Iron Nugget, minecraft:iron_nugget_from_smelting, 
+Minecraft, minecraft:iron_pickaxe, 600, Iron Pickaxe, minecraft:iron_pickaxe, fabric:pickaxes
+Minecraft, minecraft:iron_shovel, 599, Iron Shovel, minecraft:iron_shovel, fabric:shovels
+Minecraft, minecraft:iron_sword, 598, Iron Sword, minecraft:iron_sword, fabric:swords
+Minecraft, minecraft:iron_trapdoor, 348, Iron Trapdoor, minecraft:iron_trapdoor, minecraft:trapdoors
+Minecraft, minecraft:item_frame, 828, Item Frame, minecraft:item_frame, 
+Minecraft, minecraft:jack_o_lantern, 225, Jack o'Lantern, minecraft:jack_o_lantern, 
+Minecraft, minecraft:jukebox, 207, Jukebox, minecraft:jukebox, 
+Minecraft, minecraft:jungle_boat, 901, Jungle Boat, minecraft:jungle_boat, minecraft:boats
+Minecraft, minecraft:jungle_button, 308, Jungle Button, minecraft:jungle_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:jungle_door, 561, Jungle Door, minecraft:jungle_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:jungle_fence, 211, Jungle Fence, minecraft:jungle_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:jungle_fence_gate, 255, Jungle Fence Gate, minecraft:jungle_fence_gate, 
+Minecraft, minecraft:jungle_planks, 18, Jungle Planks, minecraft:jungle_planks, minecraft:planks
+Minecraft, minecraft:jungle_pressure_plate, 194, Jungle Pressure Plate, minecraft:jungle_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:jungle_sign, 655, Jungle Sign, minecraft:jungle_sign, minecraft:signs
+Minecraft, minecraft:jungle_slab, 141, Jungle Slab, minecraft:jungle_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:jungle_stairs, 282, Jungle Stairs, minecraft:jungle_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:jungle_trapdoor, 229, Jungle Trapdoor, minecraft:jungle_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:jungle_wood, 64, Jungle Wood, minecraft:jungle_wood, minecraft:jungle_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:ladder, 186, Ladder, minecraft:ladder, 
+Minecraft, minecraft:lantern, 946, Lantern, minecraft:lantern, 
+Minecraft, minecraft:lapis_block, 79, Lapis Lazuli Block, minecraft:lapis_block, 
+Minecraft, minecraft:lapis_lazuli, 695, Lapis Lazuli, minecraft:lapis_from_blasting, 
+Minecraft, minecraft:lapis_lazuli, 695, Lapis Lazuli, minecraft:lapis_from_smelting, 
+Minecraft, minecraft:lapis_lazuli, 695, Lapis Lazuli, minecraft:lapis_lazuli, 
+Minecraft, minecraft:lead, 865, Lead, minecraft:lead, 
+Minecraft, minecraft:leather, 668, Leather, minecraft:leather, 
+Minecraft, minecraft:leather_boots, 625, Leather Boots, minecraft:leather_boots, 
+Minecraft, minecraft:leather_chestplate, 623, Leather Tunic, minecraft:leather_chestplate, 
+Minecraft, minecraft:leather_helmet, 622, Leather Cap, minecraft:leather_helmet, 
+Minecraft, minecraft:leather_horse_armor, 864, Leather Horse Armor, minecraft:leather_horse_armor, 
+Minecraft, minecraft:leather_leggings, 624, Leather Pants, minecraft:leather_leggings, 
+Minecraft, minecraft:lectern, 942, Lectern, minecraft:lectern, 
+Minecraft, minecraft:lever, 189, Lever, minecraft:lever, 
+Minecraft, minecraft:light_blue_banner, 873, Light Blue Banner, minecraft:light_blue_banner, minecraft:banners
+Minecraft, minecraft:light_blue_bed, 719, Light Blue Bed, minecraft:light_blue_bed, minecraft:beds
+Minecraft, minecraft:light_blue_bed, 719, Light Blue Bed, minecraft:light_blue_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:light_blue_carpet, 353, Light Blue Carpet, minecraft:light_blue_carpet, minecraft:carpets
+Minecraft, minecraft:light_blue_carpet, 353, Light Blue Carpet, minecraft:light_blue_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:light_blue_concrete_powder, 483, Light Blue Concrete Powder, minecraft:light_blue_concrete_powder, 
+Minecraft, minecraft:light_blue_dye, 699, Light Blue Dye, minecraft:light_blue_dye_from_blue_orchid, 
+Minecraft, minecraft:light_blue_dye, 699, Light Blue Dye, minecraft:light_blue_dye_from_blue_white_dye, 
+Minecraft, minecraft:light_blue_glazed_terracotta, 451, Light Blue Glazed Terracotta, minecraft:light_blue_glazed_terracotta, 
+Minecraft, minecraft:light_blue_stained_glass, 382, Light Blue Stained Glass, minecraft:light_blue_stained_glass, 
+Minecraft, minecraft:light_blue_stained_glass_pane, 398, Light Blue Stained Glass Pane, minecraft:light_blue_stained_glass_pane, 
+Minecraft, minecraft:light_blue_stained_glass_pane, 398, Light Blue Stained Glass Pane, minecraft:light_blue_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:light_blue_terracotta, 334, Light Blue Terracotta, minecraft:light_blue_terracotta, 
+Minecraft, minecraft:light_blue_wool, 98, Light Blue Wool, minecraft:light_blue_wool, minecraft:wool
+Minecraft, minecraft:light_gray_banner, 878, Light Gray Banner, minecraft:light_gray_banner, minecraft:banners
+Minecraft, minecraft:light_gray_bed, 724, Light Gray Bed, minecraft:light_gray_bed, minecraft:beds
+Minecraft, minecraft:light_gray_bed, 724, Light Gray Bed, minecraft:light_gray_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:light_gray_carpet, 358, Light Gray Carpet, minecraft:light_gray_carpet, minecraft:carpets
+Minecraft, minecraft:light_gray_carpet, 358, Light Gray Carpet, minecraft:light_gray_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:light_gray_concrete_powder, 488, Light Gray Concrete Powder, minecraft:light_gray_concrete_powder, 
+Minecraft, minecraft:light_gray_dye, 704, Light Gray Dye, minecraft:light_gray_dye_from_azure_bluet, 
+Minecraft, minecraft:light_gray_dye, 704, Light Gray Dye, minecraft:light_gray_dye_from_black_white_dye, 
+Minecraft, minecraft:light_gray_dye, 704, Light Gray Dye, minecraft:light_gray_dye_from_gray_white_dye, 
+Minecraft, minecraft:light_gray_dye, 704, Light Gray Dye, minecraft:light_gray_dye_from_oxeye_daisy, 
+Minecraft, minecraft:light_gray_dye, 704, Light Gray Dye, minecraft:light_gray_dye_from_white_tulip, 
+Minecraft, minecraft:light_gray_glazed_terracotta, 456, Light Gray Glazed Terracotta, minecraft:light_gray_glazed_terracotta, 
+Minecraft, minecraft:light_gray_stained_glass, 387, Light Gray Stained Glass, minecraft:light_gray_stained_glass, 
+Minecraft, minecraft:light_gray_stained_glass_pane, 403, Light Gray Stained Glass Pane, minecraft:light_gray_stained_glass_pane, 
+Minecraft, minecraft:light_gray_stained_glass_pane, 403, Light Gray Stained Glass Pane, minecraft:light_gray_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:light_gray_terracotta, 339, Light Gray Terracotta, minecraft:light_gray_terracotta, 
+Minecraft, minecraft:light_gray_wool, 103, Light Gray Wool, minecraft:light_gray_wool, minecraft:wool
+Minecraft, minecraft:light_weighted_pressure_plate, 318, Light Weighted Pressure Plate, minecraft:light_weighted_pressure_plate, minecraft:piglin_loved
+Minecraft, minecraft:lime_banner, 875, Lime Banner, minecraft:lime_banner, minecraft:banners
+Minecraft, minecraft:lime_bed, 721, Lime Bed, minecraft:lime_bed, minecraft:beds
+Minecraft, minecraft:lime_bed, 721, Lime Bed, minecraft:lime_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:lime_carpet, 355, Lime Carpet, minecraft:lime_carpet, minecraft:carpets
+Minecraft, minecraft:lime_carpet, 355, Lime Carpet, minecraft:lime_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:lime_concrete_powder, 485, Lime Concrete Powder, minecraft:lime_concrete_powder, 
+Minecraft, minecraft:lime_dye, 701, Lime Dye, minecraft:lime_dye, 
+Minecraft, minecraft:lime_dye, 701, Lime Dye, minecraft:lime_dye_from_smelting, 
+Minecraft, minecraft:lime_glazed_terracotta, 453, Lime Glazed Terracotta, minecraft:lime_glazed_terracotta, 
+Minecraft, minecraft:lime_stained_glass, 384, Lime Stained Glass, minecraft:lime_stained_glass, 
+Minecraft, minecraft:lime_stained_glass_pane, 400, Lime Stained Glass Pane, minecraft:lime_stained_glass_pane, 
+Minecraft, minecraft:lime_stained_glass_pane, 400, Lime Stained Glass Pane, minecraft:lime_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:lime_terracotta, 336, Lime Terracotta, minecraft:lime_terracotta, 
+Minecraft, minecraft:lime_wool, 100, Lime Wool, minecraft:lime_wool, minecraft:wool
+Minecraft, minecraft:lodestone, 958, Lodestone, minecraft:lodestone, 
+Minecraft, minecraft:loom, 928, Loom, minecraft:loom, 
+Minecraft, minecraft:magenta_banner, 872, Magenta Banner, minecraft:magenta_banner, minecraft:banners
+Minecraft, minecraft:magenta_bed, 718, Magenta Bed, minecraft:magenta_bed, minecraft:beds
+Minecraft, minecraft:magenta_bed, 718, Magenta Bed, minecraft:magenta_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:magenta_carpet, 352, Magenta Carpet, minecraft:magenta_carpet, minecraft:carpets
+Minecraft, minecraft:magenta_carpet, 352, Magenta Carpet, minecraft:magenta_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:magenta_concrete_powder, 482, Magenta Concrete Powder, minecraft:magenta_concrete_powder, 
+Minecraft, minecraft:magenta_dye, 698, Magenta Dye, minecraft:magenta_dye_from_allium, 
+Minecraft, minecraft:magenta_dye, 698, Magenta Dye, minecraft:magenta_dye_from_blue_red_pink, 
+Minecraft, minecraft:magenta_dye, 698, Magenta Dye, minecraft:magenta_dye_from_blue_red_white_dye, 
+Minecraft, minecraft:magenta_dye, 698, Magenta Dye, minecraft:magenta_dye_from_lilac, 
+Minecraft, minecraft:magenta_dye, 698, Magenta Dye, minecraft:magenta_dye_from_purple_and_pink, 
+Minecraft, minecraft:magenta_glazed_terracotta, 450, Magenta Glazed Terracotta, minecraft:magenta_glazed_terracotta, 
+Minecraft, minecraft:magenta_stained_glass, 381, Magenta Stained Glass, minecraft:magenta_stained_glass, 
+Minecraft, minecraft:magenta_stained_glass_pane, 397, Magenta Stained Glass Pane, minecraft:magenta_stained_glass_pane, 
+Minecraft, minecraft:magenta_stained_glass_pane, 397, Magenta Stained Glass Pane, minecraft:magenta_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:magenta_terracotta, 333, Magenta Terracotta, minecraft:magenta_terracotta, 
+Minecraft, minecraft:magenta_wool, 97, Magenta Wool, minecraft:magenta_wool, minecraft:wool
+Minecraft, minecraft:magma_block, 424, Magma Block, minecraft:magma_block, 
+Minecraft, minecraft:magma_cream, 754, Magma Cream, minecraft:magma_cream, 
+Minecraft, minecraft:map, 834, Empty Map, minecraft:map, 
+Minecraft, minecraft:map, 834, Empty Map, minecraft:map_extending, 
+Minecraft, minecraft:melon, 250, Melon, minecraft:melon, 
+Minecraft, minecraft:melon_seeds, 738, Melon Seeds, minecraft:melon_seeds, 
+Minecraft, minecraft:minecart, 663, Minecart, minecraft:minecart, 
+Minecraft, minecraft:mojang_banner_pattern, 932, Banner Pattern, minecraft:mojang_banner_pattern, 
+Minecraft, minecraft:mossy_cobblestone, 169, Mossy Cobblestone, minecraft:mossy_cobblestone, 
+Minecraft, minecraft:mossy_cobblestone_slab, 547, Mossy Cobblestone Slab, minecraft:mossy_cobblestone_slab, minecraft:slabs
+Minecraft, minecraft:mossy_cobblestone_slab, 547, Mossy Cobblestone Slab, minecraft:mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting, minecraft:slabs
+Minecraft, minecraft:mossy_cobblestone_stairs, 533, Mossy Cobblestone Stairs, minecraft:mossy_cobblestone_stairs, minecraft:stairs
+Minecraft, minecraft:mossy_cobblestone_stairs, 533, Mossy Cobblestone Stairs, minecraft:mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting, minecraft:stairs
+Minecraft, minecraft:mossy_cobblestone_wall, 288, Mossy Cobblestone Wall, minecraft:mossy_cobblestone_wall, minecraft:walls
+Minecraft, minecraft:mossy_cobblestone_wall, 288, Mossy Cobblestone Wall, minecraft:mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting, minecraft:walls
+Minecraft, minecraft:mossy_stone_brick_slab, 545, Mossy Stone Brick Slab, minecraft:mossy_stone_brick_slab, minecraft:slabs
+Minecraft, minecraft:mossy_stone_brick_slab, 545, Mossy Stone Brick Slab, minecraft:mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting, minecraft:slabs
+Minecraft, minecraft:mossy_stone_brick_stairs, 531, Mossy Stone Brick Stairs, minecraft:mossy_stone_brick_stairs, minecraft:stairs
+Minecraft, minecraft:mossy_stone_brick_stairs, 531, Mossy Stone Brick Stairs, minecraft:mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting, minecraft:stairs
+Minecraft, minecraft:mossy_stone_brick_wall, 292, Mossy Stone Brick Wall, minecraft:mossy_stone_brick_wall, minecraft:walls
+Minecraft, minecraft:mossy_stone_brick_wall, 292, Mossy Stone Brick Wall, minecraft:mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting, minecraft:walls
+Minecraft, minecraft:mossy_stone_bricks, 241, Mossy Stone Bricks, minecraft:mossy_stone_bricks, minecraft:stone_bricks
+Minecraft, minecraft:mushroom_stew, 615, Mushroom Stew, minecraft:mushroom_stew, 
+Minecraft, minecraft:nether_brick, 849, Nether Brick, minecraft:nether_brick, 
+Minecraft, minecraft:nether_brick_fence, 267, Nether Brick Fence, minecraft:nether_brick_fence, minecraft:fences
+Minecraft, minecraft:nether_brick_slab, 154, Nether Brick Slab, minecraft:nether_brick_slab, minecraft:slabs
+Minecraft, minecraft:nether_brick_slab, 154, Nether Brick Slab, minecraft:nether_brick_slab_from_nether_bricks_stonecutting, minecraft:slabs
+Minecraft, minecraft:nether_brick_stairs, 268, Nether Brick Stairs, minecraft:nether_brick_stairs, minecraft:stairs
+Minecraft, minecraft:nether_brick_stairs, 268, Nether Brick Stairs, minecraft:nether_brick_stairs_from_nether_bricks_stonecutting, minecraft:stairs
+Minecraft, minecraft:nether_brick_wall, 295, Nether Brick Wall, minecraft:nether_brick_wall, minecraft:walls
+Minecraft, minecraft:nether_brick_wall, 295, Nether Brick Wall, minecraft:nether_brick_wall_from_nether_bricks_stonecutting, minecraft:walls
+Minecraft, minecraft:nether_bricks, 264, Nether Bricks, minecraft:nether_bricks, 
+Minecraft, minecraft:nether_wart_block, 425, Nether Wart Block, minecraft:nether_wart_block, 
+Minecraft, minecraft:netherite_axe, 611, Netherite Axe, minecraft:netherite_axe_smithing, fabric:axes
+Minecraft, minecraft:netherite_block, 959, Block of Netherite, minecraft:netherite_block, 
+Minecraft, minecraft:netherite_boots, 645, Netherite Boots, minecraft:netherite_boots_smithing, 
+Minecraft, minecraft:netherite_chestplate, 643, Netherite Chestplate, minecraft:netherite_chestplate_smithing, 
+Minecraft, minecraft:netherite_helmet, 642, Netherite Helmet, minecraft:netherite_helmet_smithing, 
+Minecraft, minecraft:netherite_hoe, 612, Netherite Hoe, minecraft:netherite_hoe_smithing, fabric:hoes
+Minecraft, minecraft:netherite_ingot, 581, Netherite Ingot, minecraft:netherite_ingot, minecraft:beacon_payment_items
+Minecraft, minecraft:netherite_ingot, 581, Netherite Ingot, minecraft:netherite_ingot_from_netherite_block, minecraft:beacon_payment_items
+Minecraft, minecraft:netherite_leggings, 644, Netherite Leggings, minecraft:netherite_leggings_smithing, 
+Minecraft, minecraft:netherite_pickaxe, 610, Netherite Pickaxe, minecraft:netherite_pickaxe_smithing, fabric:pickaxes
+Minecraft, minecraft:netherite_scrap, 582, Netherite Scrap, minecraft:netherite_scrap, 
+Minecraft, minecraft:netherite_scrap, 582, Netherite Scrap, minecraft:netherite_scrap_from_blasting, 
+Minecraft, minecraft:netherite_shovel, 609, Netherite Shovel, minecraft:netherite_shovel_smithing, fabric:shovels
+Minecraft, minecraft:netherite_sword, 608, Netherite Sword, minecraft:netherite_sword_smithing, fabric:swords
+Minecraft, minecraft:note_block, 84, Note Block, minecraft:note_block, 
+Minecraft, minecraft:oak_boat, 667, Oak Boat, minecraft:oak_boat, minecraft:boats
+Minecraft, minecraft:oak_button, 305, Oak Button, minecraft:oak_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:oak_door, 558, Oak Door, minecraft:oak_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:oak_fence, 208, Oak Fence, minecraft:oak_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:oak_fence_gate, 252, Oak Fence Gate, minecraft:oak_fence_gate, 
+Minecraft, minecraft:oak_planks, 15, Oak Planks, minecraft:oak_planks, minecraft:planks
+Minecraft, minecraft:oak_pressure_plate, 191, Oak Pressure Plate, minecraft:oak_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:oak_sign, 652, Oak Sign, minecraft:oak_sign, minecraft:signs
+Minecraft, minecraft:oak_slab, 138, Oak Slab, minecraft:oak_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:oak_stairs, 179, Oak Stairs, minecraft:oak_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:oak_trapdoor, 226, Oak Trapdoor, minecraft:oak_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:oak_wood, 61, Oak Wood, minecraft:oak_wood, minecraft:logs, minecraft:logs_that_burn, minecraft:oak_logs
+Minecraft, minecraft:observer, 430, Observer, minecraft:observer, 
+Minecraft, minecraft:orange_banner, 871, Orange Banner, minecraft:orange_banner, minecraft:banners
+Minecraft, minecraft:orange_bed, 717, Orange Bed, minecraft:orange_bed, minecraft:beds
+Minecraft, minecraft:orange_bed, 717, Orange Bed, minecraft:orange_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:orange_carpet, 351, Orange Carpet, minecraft:orange_carpet, minecraft:carpets
+Minecraft, minecraft:orange_carpet, 351, Orange Carpet, minecraft:orange_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:orange_concrete_powder, 481, Orange Concrete Powder, minecraft:orange_concrete_powder, 
+Minecraft, minecraft:orange_dye, 697, Orange Dye, minecraft:orange_dye_from_orange_tulip, 
+Minecraft, minecraft:orange_dye, 697, Orange Dye, minecraft:orange_dye_from_red_yellow, 
+Minecraft, minecraft:orange_glazed_terracotta, 449, Orange Glazed Terracotta, minecraft:orange_glazed_terracotta, 
+Minecraft, minecraft:orange_stained_glass, 380, Orange Stained Glass, minecraft:orange_stained_glass, 
+Minecraft, minecraft:orange_stained_glass_pane, 396, Orange Stained Glass Pane, minecraft:orange_stained_glass_pane, 
+Minecraft, minecraft:orange_stained_glass_pane, 396, Orange Stained Glass Pane, minecraft:orange_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:orange_terracotta, 332, Orange Terracotta, minecraft:orange_terracotta, 
+Minecraft, minecraft:orange_wool, 96, Orange Wool, minecraft:orange_wool, minecraft:wool
+Minecraft, minecraft:packed_ice, 368, Packed Ice, minecraft:packed_ice, 
+Minecraft, minecraft:painting, 649, Painting, minecraft:painting, 
+Minecraft, minecraft:paper, 677, Paper, minecraft:paper, 
+Minecraft, minecraft:pink_banner, 876, Pink Banner, minecraft:pink_banner, minecraft:banners
+Minecraft, minecraft:pink_bed, 722, Pink Bed, minecraft:pink_bed, minecraft:beds
+Minecraft, minecraft:pink_bed, 722, Pink Bed, minecraft:pink_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:pink_carpet, 356, Pink Carpet, minecraft:pink_carpet, minecraft:carpets
+Minecraft, minecraft:pink_carpet, 356, Pink Carpet, minecraft:pink_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:pink_concrete_powder, 486, Pink Concrete Powder, minecraft:pink_concrete_powder, 
+Minecraft, minecraft:pink_dye, 702, Pink Dye, minecraft:pink_dye_from_peony, 
+Minecraft, minecraft:pink_dye, 702, Pink Dye, minecraft:pink_dye_from_pink_tulip, 
+Minecraft, minecraft:pink_dye, 702, Pink Dye, minecraft:pink_dye_from_red_white_dye, 
+Minecraft, minecraft:pink_glazed_terracotta, 454, Pink Glazed Terracotta, minecraft:pink_glazed_terracotta, 
+Minecraft, minecraft:pink_stained_glass, 385, Pink Stained Glass, minecraft:pink_stained_glass, 
+Minecraft, minecraft:pink_stained_glass_pane, 401, Pink Stained Glass Pane, minecraft:pink_stained_glass_pane, 
+Minecraft, minecraft:pink_stained_glass_pane, 401, Pink Stained Glass Pane, minecraft:pink_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:pink_terracotta, 337, Pink Terracotta, minecraft:pink_terracotta, 
+Minecraft, minecraft:pink_wool, 101, Pink Wool, minecraft:pink_wool, minecraft:wool
+Minecraft, minecraft:piston, 94, Piston, minecraft:piston, 
+Minecraft, minecraft:polished_andesite, 7, Polished Andesite, minecraft:polished_andesite, 
+Minecraft, minecraft:polished_andesite, 7, Polished Andesite, minecraft:polished_andesite_from_andesite_stonecutting, 
+Minecraft, minecraft:polished_andesite_slab, 554, Polished Andesite Slab, minecraft:polished_andesite_slab, minecraft:slabs
+Minecraft, minecraft:polished_andesite_slab, 554, Polished Andesite Slab, minecraft:polished_andesite_slab_from_andesite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_andesite_slab, 554, Polished Andesite Slab, minecraft:polished_andesite_slab_from_polished_andesite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_andesite_stairs, 541, Polished Andesite Stairs, minecraft:polished_andesite_stairs, minecraft:stairs
+Minecraft, minecraft:polished_andesite_stairs, 541, Polished Andesite Stairs, minecraft:polished_andesite_stairs_from_andesite_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_andesite_stairs, 541, Polished Andesite Stairs, minecraft:polished_andesite_stairs_from_polished_andesite_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_basalt, 222, Polished Basalt, minecraft:polished_basalt, 
+Minecraft, minecraft:polished_basalt, 222, Polished Basalt, minecraft:polished_basalt_from_basalt_stonecutting, 
+Minecraft, minecraft:polished_blackstone, 967, Polished Blackstone, minecraft:polished_blackstone, 
+Minecraft, minecraft:polished_blackstone, 967, Polished Blackstone, minecraft:polished_blackstone_from_blackstone_stonecutting, 
+Minecraft, minecraft:polished_blackstone_brick_slab, 972, Polished Blackstone Brick Slab, minecraft:polished_blackstone_brick_slab, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_brick_slab, 972, Polished Blackstone Brick Slab, minecraft:polished_blackstone_brick_slab_from_blackstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_brick_slab, 972, Polished Blackstone Brick Slab, minecraft:polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_brick_slab, 972, Polished Blackstone Brick Slab, minecraft:polished_blackstone_brick_slab_from_polished_blackstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_brick_stairs, 973, Polished Blackstone Brick Stairs, minecraft:polished_blackstone_brick_stairs, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_brick_stairs, 973, Polished Blackstone Brick Stairs, minecraft:polished_blackstone_brick_stairs_from_blackstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_brick_stairs, 973, Polished Blackstone Brick Stairs, minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_brick_stairs, 973, Polished Blackstone Brick Stairs, minecraft:polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_brick_wall, 303, Polished Blackstone Brick Wall, minecraft:polished_blackstone_brick_wall, minecraft:walls
+Minecraft, minecraft:polished_blackstone_brick_wall, 303, Polished Blackstone Brick Wall, minecraft:polished_blackstone_brick_wall_from_blackstone_stonecutting, minecraft:walls
+Minecraft, minecraft:polished_blackstone_brick_wall, 303, Polished Blackstone Brick Wall, minecraft:polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting, minecraft:walls
+Minecraft, minecraft:polished_blackstone_brick_wall, 303, Polished Blackstone Brick Wall, minecraft:polished_blackstone_brick_wall_from_polished_blackstone_stonecutting, minecraft:walls
+Minecraft, minecraft:polished_blackstone_bricks, 971, Polished Blackstone Bricks, minecraft:polished_blackstone_bricks, 
+Minecraft, minecraft:polished_blackstone_bricks, 971, Polished Blackstone Bricks, minecraft:polished_blackstone_bricks_from_blackstone_stonecutting, 
+Minecraft, minecraft:polished_blackstone_bricks, 971, Polished Blackstone Bricks, minecraft:polished_blackstone_bricks_from_polished_blackstone_stonecutting, 
+Minecraft, minecraft:polished_blackstone_button, 313, Polished Blackstone Button, minecraft:polished_blackstone_button, minecraft:buttons
+Minecraft, minecraft:polished_blackstone_pressure_plate, 199, Polished Blackstone Pressure Plate, minecraft:polished_blackstone_pressure_plate, 
+Minecraft, minecraft:polished_blackstone_slab, 968, Polished Blackstone Slab, minecraft:polished_blackstone_slab, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_slab, 968, Polished Blackstone Slab, minecraft:polished_blackstone_slab_from_blackstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_slab, 968, Polished Blackstone Slab, minecraft:polished_blackstone_slab_from_polished_blackstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_blackstone_stairs, 969, Polished Blackstone Stairs, minecraft:polished_blackstone_stairs, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_stairs, 969, Polished Blackstone Stairs, minecraft:polished_blackstone_stairs_from_blackstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_stairs, 969, Polished Blackstone Stairs, minecraft:polished_blackstone_stairs_from_polished_blackstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_blackstone_wall, 302, Polished Blackstone Wall, minecraft:polished_blackstone_wall, minecraft:walls
+Minecraft, minecraft:polished_blackstone_wall, 302, Polished Blackstone Wall, minecraft:polished_blackstone_wall_from_blackstone_stonecutting, minecraft:walls
+Minecraft, minecraft:polished_blackstone_wall, 302, Polished Blackstone Wall, minecraft:polished_blackstone_wall_from_polished_blackstone_stonecutting, minecraft:walls
+Minecraft, minecraft:polished_diorite, 5, Polished Diorite, minecraft:polished_diorite, 
+Minecraft, minecraft:polished_diorite, 5, Polished Diorite, minecraft:polished_diorite_from_diorite_stonecutting, 
+Minecraft, minecraft:polished_diorite_slab, 546, Polished Diorite Slab, minecraft:polished_diorite_slab, minecraft:slabs
+Minecraft, minecraft:polished_diorite_slab, 546, Polished Diorite Slab, minecraft:polished_diorite_slab_from_diorite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_diorite_slab, 546, Polished Diorite Slab, minecraft:polished_diorite_slab_from_polished_diorite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_diorite_stairs, 532, Polished Diorite Stairs, minecraft:polished_diorite_stairs, minecraft:stairs
+Minecraft, minecraft:polished_diorite_stairs, 532, Polished Diorite Stairs, minecraft:polished_diorite_stairs_from_diorite_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_diorite_stairs, 532, Polished Diorite Stairs, minecraft:polished_diorite_stairs_from_polished_diorite_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_granite, 3, Polished Granite, minecraft:polished_granite, 
+Minecraft, minecraft:polished_granite, 3, Polished Granite, minecraft:polished_granite_from_granite_stonecutting, 
+Minecraft, minecraft:polished_granite_slab, 543, Polished Granite Slab, minecraft:polished_granite_slab, minecraft:slabs
+Minecraft, minecraft:polished_granite_slab, 543, Polished Granite Slab, minecraft:polished_granite_slab_from_granite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_granite_slab, 543, Polished Granite Slab, minecraft:polished_granite_slab_from_polished_granite_stonecutting, minecraft:slabs
+Minecraft, minecraft:polished_granite_stairs, 529, Polished Granite Stairs, minecraft:polished_granite_stairs, minecraft:stairs
+Minecraft, minecraft:polished_granite_stairs, 529, Polished Granite Stairs, minecraft:polished_granite_stairs_from_granite_stonecutting, minecraft:stairs
+Minecraft, minecraft:polished_granite_stairs, 529, Polished Granite Stairs, minecraft:polished_granite_stairs_from_polished_granite_stonecutting, minecraft:stairs
+Minecraft, minecraft:popped_chorus_fruit, 888, Popped Chorus Fruit, minecraft:popped_chorus_fruit, 
+Minecraft, minecraft:powered_rail, 85, Powered Rail, minecraft:powered_rail, minecraft:rails
+Minecraft, minecraft:prismarine, 411, Prismarine, minecraft:prismarine, 
+Minecraft, minecraft:prismarine_brick_slab, 160, Prismarine Brick Slab, minecraft:prismarine_brick_slab, minecraft:slabs
+Minecraft, minecraft:prismarine_brick_slab, 160, Prismarine Brick Slab, minecraft:prismarine_brick_slab_from_prismarine_stonecutting, minecraft:slabs
+Minecraft, minecraft:prismarine_brick_stairs, 415, Prismarine Brick Stairs, minecraft:prismarine_brick_stairs, minecraft:stairs
+Minecraft, minecraft:prismarine_brick_stairs, 415, Prismarine Brick Stairs, minecraft:prismarine_brick_stairs_from_prismarine_stonecutting, minecraft:stairs
+Minecraft, minecraft:prismarine_bricks, 412, Prismarine Bricks, minecraft:prismarine_bricks, 
+Minecraft, minecraft:prismarine_slab, 159, Prismarine Slab, minecraft:prismarine_slab, minecraft:slabs
+Minecraft, minecraft:prismarine_slab, 159, Prismarine Slab, minecraft:prismarine_slab_from_prismarine_stonecutting, minecraft:slabs
+Minecraft, minecraft:prismarine_stairs, 414, Prismarine Stairs, minecraft:prismarine_stairs, minecraft:stairs
+Minecraft, minecraft:prismarine_stairs, 414, Prismarine Stairs, minecraft:prismarine_stairs_from_prismarine_stonecutting, minecraft:stairs
+Minecraft, minecraft:prismarine_wall, 290, Prismarine Wall, minecraft:prismarine_wall, minecraft:walls
+Minecraft, minecraft:prismarine_wall, 290, Prismarine Wall, minecraft:prismarine_wall_from_prismarine_stonecutting, minecraft:walls
+Minecraft, minecraft:pumpkin_pie, 845, Pumpkin Pie, minecraft:pumpkin_pie, 
+Minecraft, minecraft:pumpkin_seeds, 737, Pumpkin Seeds, minecraft:pumpkin_seeds, 
+Minecraft, minecraft:purple_banner, 880, Purple Banner, minecraft:purple_banner, minecraft:banners
+Minecraft, minecraft:purple_bed, 726, Purple Bed, minecraft:purple_bed, minecraft:beds
+Minecraft, minecraft:purple_bed, 726, Purple Bed, minecraft:purple_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:purple_carpet, 360, Purple Carpet, minecraft:purple_carpet, minecraft:carpets
+Minecraft, minecraft:purple_carpet, 360, Purple Carpet, minecraft:purple_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:purple_concrete_powder, 490, Purple Concrete Powder, minecraft:purple_concrete_powder, 
+Minecraft, minecraft:purple_dye, 706, Purple Dye, minecraft:purple_dye, 
+Minecraft, minecraft:purple_glazed_terracotta, 458, Purple Glazed Terracotta, minecraft:purple_glazed_terracotta, 
+Minecraft, minecraft:purple_stained_glass, 389, Purple Stained Glass, minecraft:purple_stained_glass, 
+Minecraft, minecraft:purple_stained_glass_pane, 405, Purple Stained Glass Pane, minecraft:purple_stained_glass_pane, 
+Minecraft, minecraft:purple_stained_glass_pane, 405, Purple Stained Glass Pane, minecraft:purple_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:purple_terracotta, 341, Purple Terracotta, minecraft:purple_terracotta, 
+Minecraft, minecraft:purple_wool, 105, Purple Wool, minecraft:purple_wool, minecraft:wool
+Minecraft, minecraft:purpur_block, 175, Purpur Block, minecraft:purpur_block, 
+Minecraft, minecraft:purpur_pillar, 176, Purpur Pillar, minecraft:purpur_pillar, 
+Minecraft, minecraft:purpur_pillar, 176, Purpur Pillar, minecraft:purpur_pillar_from_purpur_block_stonecutting, 
+Minecraft, minecraft:purpur_slab, 158, Purpur Slab, minecraft:purpur_slab, minecraft:slabs
+Minecraft, minecraft:purpur_slab, 158, Purpur Slab, minecraft:purpur_slab_from_purpur_block_stonecutting, minecraft:slabs
+Minecraft, minecraft:purpur_stairs, 177, Purpur Stairs, minecraft:purpur_stairs, minecraft:stairs
+Minecraft, minecraft:purpur_stairs, 177, Purpur Stairs, minecraft:purpur_stairs_from_purpur_block_stonecutting, minecraft:stairs
+Minecraft, minecraft:quartz, 850, Nether Quartz, minecraft:quartz, 
+Minecraft, minecraft:quartz, 850, Nether Quartz, minecraft:quartz_from_blasting, 
+Minecraft, minecraft:quartz_block, 325, Block of Quartz, minecraft:quartz_block, 
+Minecraft, minecraft:quartz_bricks, 326, Quartz Bricks, minecraft:quartz_bricks, 
+Minecraft, minecraft:quartz_bricks, 326, Quartz Bricks, minecraft:quartz_bricks_from_quartz_block_stonecutting, 
+Minecraft, minecraft:quartz_pillar, 327, Quartz Pillar, minecraft:quartz_pillar, 
+Minecraft, minecraft:quartz_pillar, 327, Quartz Pillar, minecraft:quartz_pillar_from_quartz_block_stonecutting, 
+Minecraft, minecraft:quartz_slab, 155, Quartz Slab, minecraft:quartz_slab, minecraft:slabs
+Minecraft, minecraft:quartz_slab, 155, Quartz Slab, minecraft:quartz_slab_from_stonecutting, minecraft:slabs
+Minecraft, minecraft:quartz_stairs, 328, Quartz Stairs, minecraft:quartz_stairs, minecraft:stairs
+Minecraft, minecraft:quartz_stairs, 328, Quartz Stairs, minecraft:quartz_stairs_from_quartz_block_stonecutting, minecraft:stairs
+Minecraft, minecraft:rabbit_stew, 857, Rabbit Stew, minecraft:rabbit_stew_from_brown_mushroom, 
+Minecraft, minecraft:rabbit_stew, 857, Rabbit Stew, minecraft:rabbit_stew_from_red_mushroom, 
+Minecraft, minecraft:rail, 187, Rail, minecraft:rail, minecraft:rails
+Minecraft, minecraft:red_banner, 884, Red Banner, minecraft:red_banner, minecraft:banners
+Minecraft, minecraft:red_bed, 730, Red Bed, minecraft:red_bed, minecraft:beds
+Minecraft, minecraft:red_bed, 730, Red Bed, minecraft:red_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:red_carpet, 364, Red Carpet, minecraft:red_carpet, minecraft:carpets
+Minecraft, minecraft:red_carpet, 364, Red Carpet, minecraft:red_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:red_concrete_powder, 494, Red Concrete Powder, minecraft:red_concrete_powder, 
+Minecraft, minecraft:red_dye, 710, Red Dye, minecraft:red_dye_from_beetroot, 
+Minecraft, minecraft:red_dye, 710, Red Dye, minecraft:red_dye_from_poppy, 
+Minecraft, minecraft:red_dye, 710, Red Dye, minecraft:red_dye_from_rose_bush, 
+Minecraft, minecraft:red_dye, 710, Red Dye, minecraft:red_dye_from_tulip, 
+Minecraft, minecraft:red_glazed_terracotta, 462, Red Glazed Terracotta, minecraft:red_glazed_terracotta, 
+Minecraft, minecraft:red_nether_brick_slab, 553, Red Nether Brick Slab, minecraft:red_nether_brick_slab, minecraft:slabs
+Minecraft, minecraft:red_nether_brick_slab, 553, Red Nether Brick Slab, minecraft:red_nether_brick_slab_from_red_nether_bricks_stonecutting, minecraft:slabs
+Minecraft, minecraft:red_nether_brick_stairs, 540, Red Nether Brick Stairs, minecraft:red_nether_brick_stairs, minecraft:stairs
+Minecraft, minecraft:red_nether_brick_stairs, 540, Red Nether Brick Stairs, minecraft:red_nether_brick_stairs_from_red_nether_bricks_stonecutting, minecraft:stairs
+Minecraft, minecraft:red_nether_brick_wall, 297, Red Nether Brick Wall, minecraft:red_nether_brick_wall, minecraft:walls
+Minecraft, minecraft:red_nether_brick_wall, 297, Red Nether Brick Wall, minecraft:red_nether_brick_wall_from_red_nether_bricks_stonecutting, minecraft:walls
+Minecraft, minecraft:red_nether_bricks, 427, Red Nether Bricks, minecraft:red_nether_bricks, 
+Minecraft, minecraft:red_sandstone, 418, Red Sandstone, minecraft:red_sandstone, 
+Minecraft, minecraft:red_sandstone_slab, 156, Red Sandstone Slab, minecraft:red_sandstone_slab, minecraft:slabs
+Minecraft, minecraft:red_sandstone_slab, 156, Red Sandstone Slab, minecraft:red_sandstone_slab_from_red_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:red_sandstone_stairs, 421, Red Sandstone Stairs, minecraft:red_sandstone_stairs, minecraft:stairs
+Minecraft, minecraft:red_sandstone_stairs, 421, Red Sandstone Stairs, minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:red_sandstone_wall, 291, Red Sandstone Wall, minecraft:red_sandstone_wall, minecraft:walls
+Minecraft, minecraft:red_sandstone_wall, 291, Red Sandstone Wall, minecraft:red_sandstone_wall_from_red_sandstone_stonecutting, minecraft:walls
+Minecraft, minecraft:red_stained_glass, 393, Red Stained Glass, minecraft:red_stained_glass, 
+Minecraft, minecraft:red_stained_glass_pane, 409, Red Stained Glass Pane, minecraft:red_stained_glass_pane, 
+Minecraft, minecraft:red_stained_glass_pane, 409, Red Stained Glass Pane, minecraft:red_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:red_terracotta, 345, Red Terracotta, minecraft:red_terracotta, 
+Minecraft, minecraft:red_wool, 109, Red Wool, minecraft:red_wool, minecraft:wool
+Minecraft, minecraft:redstone, 665, Redstone Dust, minecraft:redstone, 
+Minecraft, minecraft:redstone, 665, Redstone Dust, minecraft:redstone_from_blasting, 
+Minecraft, minecraft:redstone, 665, Redstone Dust, minecraft:redstone_from_smelting, 
+Minecraft, minecraft:redstone_block, 321, Block of Redstone, minecraft:redstone_block, 
+Minecraft, minecraft:redstone_lamp, 274, Redstone Lamp, minecraft:redstone_lamp, 
+Minecraft, minecraft:redstone_torch, 201, Redstone Torch, minecraft:redstone_torch, 
+Minecraft, minecraft:repeater, 566, Redstone Repeater, minecraft:repeater, 
+Minecraft, minecraft:respawn_anchor, 975, Respawn Anchor, minecraft:respawn_anchor, 
+Minecraft, minecraft:sandstone, 81, Sandstone, minecraft:sandstone, 
+Minecraft, minecraft:sandstone_slab, 148, Sandstone Slab, minecraft:sandstone_slab, minecraft:slabs
+Minecraft, minecraft:sandstone_slab, 148, Sandstone Slab, minecraft:sandstone_slab_from_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:sandstone_stairs, 275, Sandstone Stairs, minecraft:sandstone_stairs, minecraft:stairs
+Minecraft, minecraft:sandstone_stairs, 275, Sandstone Stairs, minecraft:sandstone_stairs_from_sandstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:sandstone_wall, 298, Sandstone Wall, minecraft:sandstone_wall, minecraft:walls
+Minecraft, minecraft:sandstone_wall, 298, Sandstone Wall, minecraft:sandstone_wall_from_sandstone_stonecutting, minecraft:walls
+Minecraft, minecraft:scaffolding, 556, Scaffolding, minecraft:scaffolding, 
+Minecraft, minecraft:sea_lantern, 417, Sea Lantern, minecraft:sea_lantern, 
+Minecraft, minecraft:shears, 734, Shears, minecraft:shears, fabric:shears
+Minecraft, minecraft:shield, 897, Shield, minecraft:shield, 
+Minecraft, minecraft:shulker_box, 431, Shulker Box, minecraft:shulker_box, 
+Minecraft, minecraft:skull_banner_pattern, 931, Banner Pattern, minecraft:skull_banner_pattern, 
+Minecraft, minecraft:slime_ball, 679, Slimeball, minecraft:slime_ball, 
+Minecraft, minecraft:slime_block, 371, Slime Block, minecraft:slime_block, 
+Minecraft, minecraft:smithing_table, 943, Smithing Table, minecraft:smithing_table, 
+Minecraft, minecraft:smoker, 937, Smoker, minecraft:smoker, 
+Minecraft, minecraft:smooth_quartz, 162, Smooth Quartz Block, minecraft:smooth_quartz, 
+Minecraft, minecraft:smooth_quartz_slab, 550, Smooth Quartz Slab, minecraft:smooth_quartz_slab, minecraft:slabs
+Minecraft, minecraft:smooth_quartz_slab, 550, Smooth Quartz Slab, minecraft:smooth_quartz_slab_from_smooth_quartz_stonecutting, minecraft:slabs
+Minecraft, minecraft:smooth_quartz_stairs, 537, Smooth Quartz Stairs, minecraft:smooth_quartz_stairs, minecraft:stairs
+Minecraft, minecraft:smooth_quartz_stairs, 537, Smooth Quartz Stairs, minecraft:smooth_quartz_stairs_from_smooth_quartz_stonecutting, minecraft:stairs
+Minecraft, minecraft:smooth_red_sandstone, 163, Smooth Red Sandstone, minecraft:smooth_red_sandstone, 
+Minecraft, minecraft:smooth_red_sandstone_slab, 544, Smooth Red Sandstone Slab, minecraft:smooth_red_sandstone_slab, minecraft:slabs
+Minecraft, minecraft:smooth_red_sandstone_slab, 544, Smooth Red Sandstone Slab, minecraft:smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:smooth_red_sandstone_stairs, 530, Smooth Red Sandstone Stairs, minecraft:smooth_red_sandstone_stairs, minecraft:stairs
+Minecraft, minecraft:smooth_red_sandstone_stairs, 530, Smooth Red Sandstone Stairs, minecraft:smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:smooth_sandstone, 164, Smooth Sandstone, minecraft:smooth_sandstone, 
+Minecraft, minecraft:smooth_sandstone_slab, 549, Smooth Sandstone Slab, minecraft:smooth_sandstone_slab, minecraft:slabs
+Minecraft, minecraft:smooth_sandstone_slab, 549, Smooth Sandstone Slab, minecraft:smooth_sandstone_slab_from_smooth_sandstone_stonecutting, minecraft:slabs
+Minecraft, minecraft:smooth_sandstone_stairs, 536, Smooth Sandstone Stairs, minecraft:smooth_sandstone_stairs, minecraft:stairs
+Minecraft, minecraft:smooth_sandstone_stairs, 536, Smooth Sandstone Stairs, minecraft:smooth_sandstone_stairs_from_smooth_sandstone_stonecutting, minecraft:stairs
+Minecraft, minecraft:smooth_stone, 165, Smooth Stone, minecraft:smooth_stone, 
+Minecraft, minecraft:smooth_stone_slab, 147, Smooth Stone Slab, minecraft:smooth_stone_slab, minecraft:slabs
+Minecraft, minecraft:smooth_stone_slab, 147, Smooth Stone Slab, minecraft:smooth_stone_slab_from_smooth_stone_stonecutting, minecraft:slabs
+Minecraft, minecraft:snow, 202, Snow, minecraft:snow, 
+Minecraft, minecraft:snow_block, 204, Snow Block, minecraft:snow_block, 
+Minecraft, minecraft:soul_campfire, 950, Soul Campfire, minecraft:soul_campfire, minecraft:piglin_repellents
+Minecraft, minecraft:soul_lantern, 947, Soul Lantern, minecraft:soul_lantern, minecraft:piglin_repellents
+Minecraft, minecraft:soul_torch, 223, Soul Torch, minecraft:soul_torch, minecraft:piglin_repellents
+Minecraft, minecraft:spectral_arrow, 894, Spectral Arrow, minecraft:spectral_arrow, minecraft:arrows
+Minecraft, minecraft:sponge, 75, Sponge, minecraft:sponge, 
+Minecraft, minecraft:spruce_boat, 899, Spruce Boat, minecraft:spruce_boat, minecraft:boats
+Minecraft, minecraft:spruce_button, 306, Spruce Button, minecraft:spruce_button, minecraft:buttons, minecraft:wooden_buttons
+Minecraft, minecraft:spruce_door, 559, Spruce Door, minecraft:spruce_door, minecraft:doors, minecraft:wooden_doors
+Minecraft, minecraft:spruce_fence, 209, Spruce Fence, minecraft:spruce_fence, minecraft:fences, minecraft:wooden_fences
+Minecraft, minecraft:spruce_fence_gate, 253, Spruce Fence Gate, minecraft:spruce_fence_gate, 
+Minecraft, minecraft:spruce_planks, 16, Spruce Planks, minecraft:spruce_planks, minecraft:planks
+Minecraft, minecraft:spruce_pressure_plate, 192, Spruce Pressure Plate, minecraft:spruce_pressure_plate, minecraft:wooden_pressure_plates
+Minecraft, minecraft:spruce_sign, 653, Spruce Sign, minecraft:spruce_sign, minecraft:signs
+Minecraft, minecraft:spruce_slab, 139, Spruce Slab, minecraft:spruce_slab, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:spruce_stairs, 280, Spruce Stairs, minecraft:spruce_stairs, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:spruce_trapdoor, 227, Spruce Trapdoor, minecraft:spruce_trapdoor, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:spruce_wood, 62, Spruce Wood, minecraft:spruce_wood, minecraft:logs, minecraft:logs_that_burn, minecraft:spruce_logs
+Minecraft, minecraft:stick, 613, Stick, minecraft:stick, 
+Minecraft, minecraft:stick, 613, Stick, minecraft:stick_from_bamboo_item, 
+Minecraft, minecraft:sticky_piston, 87, Sticky Piston, minecraft:sticky_piston, 
+Minecraft, minecraft:stone, 1, Stone, minecraft:stone, 
+Minecraft, minecraft:stone_axe, 591, Stone Axe, minecraft:stone_axe, fabric:axes
+Minecraft, minecraft:stone_brick_slab, 153, Stone Brick Slab, minecraft:stone_brick_slab, minecraft:slabs
+Minecraft, minecraft:stone_brick_slab, 153, Stone Brick Slab, minecraft:stone_brick_slab_from_stone_bricks_stonecutting, minecraft:slabs
+Minecraft, minecraft:stone_brick_slab, 153, Stone Brick Slab, minecraft:stone_brick_slab_from_stone_stonecutting, minecraft:slabs
+Minecraft, minecraft:stone_brick_stairs, 261, Stone Brick Stairs, minecraft:stone_brick_stairs, minecraft:stairs
+Minecraft, minecraft:stone_brick_stairs, 261, Stone Brick Stairs, minecraft:stone_brick_stairs_from_stone_bricks_stonecutting, minecraft:stairs
+Minecraft, minecraft:stone_brick_stairs, 261, Stone Brick Stairs, minecraft:stone_brick_stairs_from_stone_stonecutting, minecraft:stairs
+Minecraft, minecraft:stone_brick_wall, 294, Stone Brick Wall, minecraft:stone_brick_wall, minecraft:walls
+Minecraft, minecraft:stone_brick_wall, 294, Stone Brick Wall, minecraft:stone_brick_wall_from_stone_bricks_stonecutting, minecraft:walls
+Minecraft, minecraft:stone_brick_wall, 294, Stone Brick Wall, minecraft:stone_brick_walls_from_stone_stonecutting, minecraft:walls
+Minecraft, minecraft:stone_bricks, 240, Stone Bricks, minecraft:stone_bricks, minecraft:stone_bricks
+Minecraft, minecraft:stone_bricks, 240, Stone Bricks, minecraft:stone_bricks_from_stone_stonecutting, minecraft:stone_bricks
+Minecraft, minecraft:stone_button, 304, Stone Button, minecraft:stone_button, minecraft:buttons
+Minecraft, minecraft:stone_hoe, 592, Stone Hoe, minecraft:stone_hoe, fabric:hoes
+Minecraft, minecraft:stone_pickaxe, 590, Stone Pickaxe, minecraft:stone_pickaxe, fabric:pickaxes
+Minecraft, minecraft:stone_pressure_plate, 190, Stone Pressure Plate, minecraft:stone_pressure_plate, 
+Minecraft, minecraft:stone_shovel, 589, Stone Shovel, minecraft:stone_shovel, fabric:shovels
+Minecraft, minecraft:stone_slab, 146, Stone Slab, minecraft:stone_slab, minecraft:slabs
+Minecraft, minecraft:stone_slab, 146, Stone Slab, minecraft:stone_slab_from_stone_stonecutting, minecraft:slabs
+Minecraft, minecraft:stone_stairs, 535, Stone Stairs, minecraft:stone_stairs, minecraft:stairs
+Minecraft, minecraft:stone_stairs, 535, Stone Stairs, minecraft:stone_stairs_from_stone_stonecutting, minecraft:stairs
+Minecraft, minecraft:stone_sword, 588, Stone Sword, minecraft:stone_sword, fabric:swords
+Minecraft, minecraft:stonecutter, 944, Stonecutter, minecraft:stonecutter, 
+Minecraft, minecraft:stripped_acacia_wood, 57, Stripped Acacia Wood, minecraft:stripped_acacia_wood, minecraft:acacia_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:stripped_birch_wood, 55, Stripped Birch Wood, minecraft:stripped_birch_wood, minecraft:birch_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:stripped_crimson_hyphae, 59, Stripped Crimson Hyphae, minecraft:stripped_crimson_hyphae, minecraft:crimson_stems, minecraft:logs, minecraft:non_flammable_wood
+Minecraft, minecraft:stripped_dark_oak_wood, 58, Stripped Dark Oak Wood, minecraft:stripped_dark_oak_wood, minecraft:dark_oak_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:stripped_jungle_wood, 56, Stripped Jungle Wood, minecraft:stripped_jungle_wood, minecraft:jungle_logs, minecraft:logs, minecraft:logs_that_burn
+Minecraft, minecraft:stripped_oak_wood, 53, Stripped Oak Wood, minecraft:stripped_oak_wood, minecraft:logs, minecraft:logs_that_burn, minecraft:oak_logs
+Minecraft, minecraft:stripped_spruce_wood, 54, Stripped Spruce Wood, minecraft:stripped_spruce_wood, minecraft:logs, minecraft:logs_that_burn, minecraft:spruce_logs
+Minecraft, minecraft:stripped_warped_hyphae, 60, Stripped Warped Hyphae, minecraft:stripped_warped_hyphae, minecraft:logs, minecraft:non_flammable_wood, minecraft:warped_stems
+Minecraft, minecraft:sugar, 714, Sugar, minecraft:sugar_from_honey_bottle, 
+Minecraft, minecraft:sugar, 714, Sugar, minecraft:sugar_from_sugar_cane, 
+Minecraft, minecraft:target, 961, Target, minecraft:target, 
+Minecraft, minecraft:terracotta, 366, Terracotta, minecraft:terracotta, 
+Minecraft, minecraft:tnt, 167, TNT, minecraft:tnt, 
+Minecraft, minecraft:tnt_minecart, 851, Minecart with TNT, minecraft:tnt_minecart, 
+Minecraft, minecraft:torch, 171, Torch, minecraft:torch, 
+Minecraft, minecraft:trapped_chest, 317, Trapped Chest, minecraft:trapped_chest, 
+Minecraft, minecraft:tripwire_hook, 278, Tripwire Hook, minecraft:tripwire_hook, 
+Minecraft, minecraft:turtle_helmet, 570, Turtle Shell, minecraft:turtle_helmet, 
+Minecraft, minecraft:warped_button, 312, Warped Button, minecraft:warped_button, minecraft:buttons, minecraft:non_flammable_wood, minecraft:wooden_buttons
+Minecraft, minecraft:warped_door, 565, Warped Door, minecraft:warped_door, minecraft:doors, minecraft:non_flammable_wood, minecraft:wooden_doors
+Minecraft, minecraft:warped_fence, 215, Warped Fence, minecraft:warped_fence, minecraft:fences, minecraft:non_flammable_wood, minecraft:wooden_fences
+Minecraft, minecraft:warped_fence_gate, 259, Warped Fence Gate, minecraft:warped_fence_gate, minecraft:non_flammable_wood
+Minecraft, minecraft:warped_fungus_on_a_stick, 843, Warped Fungus on a Stick, minecraft:warped_fungus_on_a_stick, 
+Minecraft, minecraft:warped_hyphae, 68, Warped Hyphae, minecraft:warped_hyphae, minecraft:logs, minecraft:non_flammable_wood, minecraft:warped_stems
+Minecraft, minecraft:warped_planks, 22, Warped Planks, minecraft:warped_planks, minecraft:non_flammable_wood, minecraft:planks
+Minecraft, minecraft:warped_pressure_plate, 198, Warped Pressure Plate, minecraft:warped_pressure_plate, minecraft:non_flammable_wood, minecraft:wooden_pressure_plates
+Minecraft, minecraft:warped_sign, 659, Warped Sign, minecraft:warped_sign, minecraft:non_flammable_wood, minecraft:signs
+Minecraft, minecraft:warped_slab, 145, Warped Slab, minecraft:warped_slab, minecraft:non_flammable_wood, minecraft:slabs, minecraft:wooden_slabs
+Minecraft, minecraft:warped_stairs, 284, Warped Stairs, minecraft:warped_stairs, minecraft:non_flammable_wood, minecraft:stairs, minecraft:wooden_stairs
+Minecraft, minecraft:warped_trapdoor, 233, Warped Trapdoor, minecraft:warped_trapdoor, minecraft:non_flammable_wood, minecraft:trapdoors, minecraft:wooden_trapdoors
+Minecraft, minecraft:wheat, 620, Wheat, minecraft:wheat, 
+Minecraft, minecraft:white_banner, 870, White Banner, minecraft:white_banner, minecraft:banners
+Minecraft, minecraft:white_bed, 716, White Bed, minecraft:white_bed, minecraft:beds
+Minecraft, minecraft:white_carpet, 350, White Carpet, minecraft:white_carpet, minecraft:carpets
+Minecraft, minecraft:white_concrete_powder, 480, White Concrete Powder, minecraft:white_concrete_powder, 
+Minecraft, minecraft:white_dye, 696, White Dye, minecraft:white_dye, 
+Minecraft, minecraft:white_dye, 696, White Dye, minecraft:white_dye_from_lily_of_the_valley, 
+Minecraft, minecraft:white_glazed_terracotta, 448, White Glazed Terracotta, minecraft:white_glazed_terracotta, 
+Minecraft, minecraft:white_stained_glass, 379, White Stained Glass, minecraft:white_stained_glass, 
+Minecraft, minecraft:white_stained_glass_pane, 395, White Stained Glass Pane, minecraft:white_stained_glass_pane, 
+Minecraft, minecraft:white_stained_glass_pane, 395, White Stained Glass Pane, minecraft:white_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:white_terracotta, 331, White Terracotta, minecraft:white_terracotta, 
+Minecraft, minecraft:white_wool, 95, White Wool, minecraft:white_wool_from_string, minecraft:wool
+Minecraft, minecraft:wooden_axe, 586, Wooden Axe, minecraft:wooden_axe, fabric:axes
+Minecraft, minecraft:wooden_hoe, 587, Wooden Hoe, minecraft:wooden_hoe, fabric:hoes
+Minecraft, minecraft:wooden_pickaxe, 585, Wooden Pickaxe, minecraft:wooden_pickaxe, fabric:pickaxes
+Minecraft, minecraft:wooden_shovel, 584, Wooden Shovel, minecraft:wooden_shovel, fabric:shovels
+Minecraft, minecraft:wooden_sword, 583, Wooden Sword, minecraft:wooden_sword, fabric:swords
+Minecraft, minecraft:writable_book, 825, Book and Quill, minecraft:writable_book, minecraft:lectern_books
+Minecraft, minecraft:yellow_banner, 874, Yellow Banner, minecraft:yellow_banner, minecraft:banners
+Minecraft, minecraft:yellow_bed, 720, Yellow Bed, minecraft:yellow_bed, minecraft:beds
+Minecraft, minecraft:yellow_bed, 720, Yellow Bed, minecraft:yellow_bed_from_white_bed, minecraft:beds
+Minecraft, minecraft:yellow_carpet, 354, Yellow Carpet, minecraft:yellow_carpet, minecraft:carpets
+Minecraft, minecraft:yellow_carpet, 354, Yellow Carpet, minecraft:yellow_carpet_from_white_carpet, minecraft:carpets
+Minecraft, minecraft:yellow_concrete_powder, 484, Yellow Concrete Powder, minecraft:yellow_concrete_powder, 
+Minecraft, minecraft:yellow_dye, 700, Yellow Dye, minecraft:yellow_dye_from_dandelion, 
+Minecraft, minecraft:yellow_dye, 700, Yellow Dye, minecraft:yellow_dye_from_sunflower, 
+Minecraft, minecraft:yellow_glazed_terracotta, 452, Yellow Glazed Terracotta, minecraft:yellow_glazed_terracotta, 
+Minecraft, minecraft:yellow_stained_glass, 383, Yellow Stained Glass, minecraft:yellow_stained_glass, 
+Minecraft, minecraft:yellow_stained_glass_pane, 399, Yellow Stained Glass Pane, minecraft:yellow_stained_glass_pane, 
+Minecraft, minecraft:yellow_stained_glass_pane, 399, Yellow Stained Glass Pane, minecraft:yellow_stained_glass_pane_from_glass_pane, 
+Minecraft, minecraft:yellow_terracotta, 335, Yellow Terracotta, minecraft:yellow_terracotta, 
+Minecraft, minecraft:yellow_wool, 99, Yellow Wool, minecraft:yellow_wool, minecraft:wool
+-----------------------------------------------------------------
+Mod name, Registry name, Item ID, Display name, Recipe name, Tags
+-----------------------------------------------------------------
