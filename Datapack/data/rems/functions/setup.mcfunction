@@ -4698,4 +4698,4 @@ scoreboard objectives add b_elytra minecraft.broken:minecraft.elytra "Broken Ely
 scoreboard objectives add b_shield minecraft.broken:minecraft.shield "Broken Shield"
 scoreboard objectives add b_crossbow minecraft.broken:minecraft.crossbow "Broken Crossbow"
 scoreboard objectives add b_warpFunguStick minecraft.broken:minecraft.warped_fungus_on_a_stick "Broken Warped Fungus on a Stick"
-tellraw @a ["",{"text":"Successfully loaded","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"Record Every Minecraft Statistic\" ","color":"gold"},{"text":" by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
+tellraw @a ["",{"text":"Successfully loaded","color":"#FF0000","hoverEvent":{"action":"show_text","contents":[""]}},{"text":" \"RecordEveryMinecraftStatistic\" ","color":"gold"},{"text":" by","color":"dark_purple"},{"text":" Wxrlds","color":"aqua"}]
