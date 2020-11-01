@@ -1,9 +1,10 @@
 A Minecraft Datapck dedicated towards adding every single Minecraft statistic as a Scoreboard.
+
 It automatically tracks and updates every statistic
 
-Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
+Check out the Addon [ProcessEveryMinecraftStatistic](https://github.com/Wxrlds/RecordEveryMinecraftStatistic) if you want you stats to be converted into minutes and meters (instead of ticks and centimeters)
 
-[Planet Minecraft page](https://www.planetminecraft.com/data-pack/record-every-minecraft-statistic/)
+Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.2-V1)
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
 
