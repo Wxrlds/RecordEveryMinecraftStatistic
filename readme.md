@@ -47,7 +47,7 @@ As Minecraft limits how long a Scoreboard name can be, the Scoreboard names are 
 
 ![grafik](https://user-images.githubusercontent.com/42120270/91225490-f8aa3f80-e723-11ea-83e8-a25058bda633.png)
 
-- ``q_ocelotSEgg`` shows how many Ocelet Spwan Eggs you have dropped
+- ``q_ocelotSEgg`` shows how many Ocelet Spawn Eggs you have dropped
 
 ![grafik](https://user-images.githubusercontent.com/42120270/91226023-bd5c4080-e724-11ea-9e53-47774dc28c11.png)
 
