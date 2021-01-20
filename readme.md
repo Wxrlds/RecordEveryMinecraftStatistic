@@ -6,7 +6,7 @@ Check out the Addon [ProcessEveryMinecraftStatistic](https://github.com/Wxrlds/P
 
 Check out the Addon [DisplayEveryMinecraftStatistic](https://github.com/Wxrlds/DisplayEveryMinecraftStatistic) to display them in survival mode without OP.
 
-Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3, 1.16.4](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC-1.16.4-V1).
+Compatible with Minecraft [1.16.1](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.16.1-V4), [1.16.2, 1.16.3, 1.16.4, 1.16.5](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC-1.16.4-V2).
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
 
