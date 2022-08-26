@@ -5,7 +5,7 @@ scoreboard players remove @a[scores={pems_calc_cu_minecraft_aviate_one_km=100000
 
 scoreboard players add @a[scores={pems_calc_cu_minecraft_boat_one_m=100..}] pems_cu_minecraft_boat_one_m 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_boat_one_m=100..}] pems_calc_cu_minecraft_boat_one_m 100
-scoreboard players add @a[scores={pems_calc_cu_minecraft_boat_one_km=100000..}] pems_cu_minecraft_boat_one_m 1
+scoreboard players add @a[scores={pems_calc_cu_minecraft_boat_one_km=100000..}] pems_cu_minecraft_boat_one_km 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_boat_one_km=100000..}] pems_calc_cu_minecraft_boat_one_km 100000
 
 scoreboard players add @a[scores={pems_calc_cu_minecraft_fly_one_m=100..}] pems_cu_minecraft_fly_one_m 1
@@ -59,7 +59,7 @@ scoreboard players remove @a[scores={pems_calc_cu_minecraft_time_since_rest=1200
 
 scoreboard players add @a[scores={pems_calc_cu_minecraft_walk_on_water_one_m=100..}] pems_cu_minecraft_walk_on_water_one_m 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_walk_on_water_one_m=100..}] pems_calc_cu_minecraft_walk_on_water_one_m 100
-scoreboard players add @a[scores={pems_calc_cu_minecraft_walk_on_water_one_km=100000..}] pems_cu_minecraft_walk_on_water_one_m 1
+scoreboard players add @a[scores={pems_calc_cu_minecraft_walk_on_water_one_km=100000..}] pems_cu_minecraft_walk_on_water_one_km 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_walk_on_water_one_km=100000..}] pems_calc_cu_minecraft_walk_on_water_one_km 100000
 
 scoreboard players add @a[scores={pems_calc_cu_minecraft_walk_one_m=100..}] pems_cu_minecraft_walk_one_m 1
