@@ -1,1 +1,4 @@
 /REMS.zip
+/MCAllStatsGenerator/venv
+/MCAllStatsGenerator/.idea
+*__pycache__*

@@ -1,0 +1,7 @@
+scoreboard objectives add g_air air "Air"
+scoreboard objectives add g_armor armor "Armor"
+scoreboard objectives add g_food food "Food"
+scoreboard objectives add g_health health "Health"
+scoreboard objectives add g_level level "Level"
+scoreboard objectives add g_totalKillCount totalKillCount "Total Kill Count"
+scoreboard objectives add g_xp xp "XP"
