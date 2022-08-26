@@ -45,5 +45,3 @@ scoreboard objectives remove pems_cu_minecraft_walk_one_m
 
 scoreboard objectives remove pems_calc_cu_minecraft_walk_under_water_one_cm
 scoreboard objectives remove pems_cu_minecraft_walk_under_water_one_m
-
-tellraw @a ["",{"text":"Successfully uninstalled ProcessEveryMinecraftStatistic ","bold":true,"color":"red","clickEvent":{"action":"open_url","value":"https://github.com/Wxrlds/ProcessEveryMinecraftStatistic"},"hoverEvent":{"action":"show_text","contents":["Click here to open the Github page of PEMS"]}},{"text":"by Wxrlds","bold":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://github.com/Wxrlds/ProcessEveryMinecraftStatistic"},"hoverEvent":{"action":"show_text","contents":["Click here to open the Github page of PEMS"]}}]
