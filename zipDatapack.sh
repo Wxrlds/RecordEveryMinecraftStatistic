@@ -1,0 +1,1 @@
+zip -r REMS.zip pack.png pack.mcmeta data/ readme.md
