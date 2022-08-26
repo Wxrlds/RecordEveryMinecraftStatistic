@@ -1,5 +1,6 @@
 {
 	"values": [
-		"pems:calc"
+		"pems:calc",
+		"dems:display"
 	]
 }

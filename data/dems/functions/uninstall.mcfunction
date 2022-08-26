@@ -1,0 +1,2 @@
+team remove dems_statistics
+scoreboard objectives remove dems_cu_minecraft_sneak_time
