@@ -1,5 +1,6 @@
 {
 	"values":[
-	"rems:setup"
+	"rems:setup",
+	"pems:setup"
 	]
 }
