@@ -2,7 +2,7 @@ A Minecraft Datapck dedicated towards adding every single Minecraft statistic as
 
 It automatically tracks and updates every statistic.
 
-Compatible with Minecraft [1.19, 1.19.1, 1.19.2](https://github.com/Wxrlds/RecordEveryMinecraftStatistic/releases/tag/MC1.19.2-0)
+Generator compatible with Minecraft 1.18+
 
 Feel free to join me on Discord for help https://discord.gg/hsae7DJ
 
