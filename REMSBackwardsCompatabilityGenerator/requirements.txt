@@ -1,0 +1,7 @@
+pip
+wheel
+certifi
+idna
+urllib3
+setuptools
+requests

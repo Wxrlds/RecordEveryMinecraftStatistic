@@ -57,9 +57,15 @@ Or on a server, create a folder and name it like the server would (specified in 
 If you want to add it to an existing world, you open its world folder, enter the datapacks folder and move the zip file in that datapacks folder. Ingame you might have to run ``/reload`` for the pack to be loaded.
 The Datapack won't be able to display previously increased statistics and you have to manually add them to your stats if you want both, your ingame statistics and the datapack to display the same score.
 
-## Scoreboard creation guide:
+## All stats generator:
 
 - Install [TellMe](https://www.curseforge.com/minecraft/mc-mods/tellme)
 - Use it to dump all blocks, entities, items, stat-types (and manually create a general.csv dump)
 - Place the dumped files under MCAllStatsGenerator/dumps
 - run main.py found under MCAllStatsGenerator
+
+## Backwards compatability generator:
+
+- copy all stat files from you ``world/stats`` folder into ``REMSBackwardsCompatabilityGenerator/dumps``
+- Run main.py
+- Setup commands for all players can be found in ``REMSBackwardsCompatabilityGenerator/output/setup.mcfunction``

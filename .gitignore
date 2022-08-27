@@ -1,4 +1,7 @@
-/REMS.zip
-/MCAllStatsGenerator/venv
-/MCAllStatsGenerator/.idea
+*REMS.zip*
+*REMSBC.zip*
+*venv*
+*.idea*
 *__pycache__*
+/REMSBackwardsCompatabilityGenerator/dumps/*
+/REMSBackwardsCompatabilityGenerator/output/*
