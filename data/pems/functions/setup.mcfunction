@@ -1,3 +1,5 @@
+function rems:setup
+
 scoreboard objectives add pems_calc_cu_minecraft_aviate_one_m minecraft.custom:minecraft.aviate_one_cm "Aviate one m PEMS Calc"
 scoreboard objectives add pems_cu_minecraft_aviate_one_m dummy "Aviate one m"
 scoreboard objectives add pems_calc_cu_minecraft_aviate_one_km minecraft.custom:minecraft.aviate_one_cm "Aviate one km PEMS Calc"
