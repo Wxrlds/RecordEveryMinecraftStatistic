@@ -49,11 +49,11 @@ scoreboard players remove @a[scores={pems_calc_cu_minecraft_swim_one_m=100..}] p
 scoreboard players add @a[scores={pems_calc_cu_minecraft_swim_one_km=100000..}] pems_cu_minecraft_swim_one_km 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_swim_one_km=100000..}] pems_calc_cu_minecraft_swim_one_km 100000
 
-execute as @a[scores={cu_sinceDeath=0}] run scoreboard players set @s pems_cu_minecraft_time_since_death_min 0
+execute as @a[scores={cu_minecraft_time_since_death=0}] run scoreboard players set @s pems_cu_minecraft_time_since_death_min 0
 scoreboard players add @a[scores={pems_calc_cu_minecraft_time_since_death=1200..}] pems_cu_minecraft_time_since_death_min 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_time_since_death=1200..}] pems_calc_cu_minecraft_time_since_death 1200
 
-execute as @a[scores={cu_sinceRest=0}] run scoreboard players set @s pems_cu_minecraft_time_since_rest_min 0
+execute as @a[scores={cu_minecraft_time_since_rest=0}] run scoreboard players set @s pems_cu_minecraft_time_since_rest_min 0
 scoreboard players add @a[scores={pems_calc_cu_minecraft_time_since_rest=1200..}] pems_cu_minecraft_time_since_rest_min 1
 scoreboard players remove @a[scores={pems_calc_cu_minecraft_time_since_rest=1200..}] pems_calc_cu_minecraft_time_since_rest 1200
 
