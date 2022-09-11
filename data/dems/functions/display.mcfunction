@@ -4,7 +4,7 @@ execute as @a[x_rotation=-90,scores={dems_cu_minecraft_sneak_time=1..},nbt={Sele
 
 execute as @a[x_rotation=-90,scores={dems_cu_minecraft_sneak_time=1..},nbt={SelectedItemSlot:2}] run scoreboard objectives setdisplay sidebar.team.white pems_cu_minecraft_time_since_death_min
 
-execute as @a[x_rotation=-90,scores={dems_cu_minecraft_sneak_time=1..},nbt={SelectedItemSlot:3}] run scoreboard objectives setdisplay sidebar.team.white g_xp
+execute as @a[x_rotation=-90,scores={dems_cu_minecraft_sneak_time=1..},nbt={SelectedItemSlot:3}] run scoreboard objectives setdisplay sidebar.team.white g_level
 
 execute as @a[x_rotation=-90,scores={dems_cu_minecraft_sneak_time=1..},nbt={SelectedItemSlot:4}] run scoreboard objectives setdisplay sidebar.team.white pems_cu_minecraft_aviate_one_km
 
